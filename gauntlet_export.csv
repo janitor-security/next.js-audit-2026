@@ -1,0 +1,969 @@
+﻿PR_Number,Author,Score,Threat_Class,Unlinked_PR,Logic_Clones,Antipattern_IDs,Collided_PRs,Time_Saved_Hours,Operational_Savings_USD,Timestamp,PR_State,Is_Bot,Repo_Slug,Commit_SHA,Policy_Hash,Agentic_Contribution_Pct
+91645,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:30Z,Open,FALSE,vercel/next.js,904197e46478fac46e4bb909e0f75e4c3ea79a37,,0.00
+90701,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:30Z,Open,FALSE,vercel/next.js,f1dbebe1417b13863cf978a4682a4f4c4d779761,,0.00
+91224,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:30Z,Open,FALSE,vercel/next.js,70b4284a118b7e02bf30c3343b9d891578998f5c,,0.00
+92088,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:30Z,Open,FALSE,vercel/next.js,fcf6b9a81469479aa77bba1a56387847f700fc1b,,0.00
+90700,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:30Z,Open,FALSE,vercel/next.js,cae0c3e593e16aa50a005d4fef50db4c6b0dee64,,0.00
+91643,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:30Z,Open,FALSE,vercel/next.js,b6b88674d07ad0cad929e93736ea8747b3eeaa00,,0.00
+92084,nextjs-bot,180,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — picocolors|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — webpack,,0.2000,20,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,2cac6112a649edd7f67b8d7d5e97a9891d35dd4c,,0.00
+90698,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,4ef4b69cef343f972b2a03ba1954d4f57cc0bb75,,0.00
+91640,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,88030fb95227fef469255a34d5695d5b6f8e318a,,0.00
+91223,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,2e16077a55f4ca98ac1df8e906cf13c1d70a0148,,0.00
+92081,Aurora Scharff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,c8c42b286fc2ba42cd45fcc21c0ec9667c21ec22,,0.00
+91639,simmzl,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,335873bdd9a633dc799ae27e9248bccdeb63e3c1,,0.00
+90697,Umut,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,69f8498e2606a0d9cca0beccd5ee7c5515abf85a,,0.00
+91222,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,55ad0864d08f2fa2beb3cd47bf00b7e1411f6e21,,0.00
+92080,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:31Z,Open,FALSE,vercel/next.js,2f9cd38f6a1f2fcaedaa78c425314365dc8ef769,,0.00
+90696,Vercel,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,f0c9bcba78bee1b999fa4702d22f476aa973efaf,,0.00
+91637,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,afb866b77479635d712360fa3a661934d5555e24,,0.00
+91221,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,d9b134414b21f963dcae2c53ad257ec49ce9fde7,,0.00
+92078,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,3acc5ada05cd55cf4b2e81f33f347c05e120558e,,0.00
+91636,Tobias Koppers,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,cece7861c15d44e6f1c5156019feabb3cd53c98c,,0.00
+90692,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,26921751c3e5b84d6eb220564956a4a08eaf069d,,0.00
+91219,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,f149920fc6bc5934d0bf34e2ac4d3e164a34bd43,,0.00
+92076,zoomdong,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,d51a5ca86455639012cc06b17378d05e35ca9518,,0.00
+91635,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,fdcc6382d82cf0cdd24bf2bd58832f70d0a275f7,,0.00
+90688,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,e0ebf2a185d9e59d4d57c1d80d57eaeafe8c2e2b,,0.00
+91218,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:32Z,Open,FALSE,vercel/next.js,ebbff55abd729bbb7fe0cb826b571672938d8268,,0.00
+92072,CJstate,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,6cdc21ae5590f2f752529a97bf22b38710d27f8d,,0.00
+91216,Sam Selikoff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,2cc0f6d8be0f09b95c09b7d9dd49965a97495c55,,0.00
+90687,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,5ff7672102f21ad5f8f6780badcd2493419c12b3,,0.00
+91634,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,e704d7b4c38dcceaf01460962ee4025ff85a640a,,0.00
+91215,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,9826edf859db78880a6248382fe1377f49e6fd98,,0.00
+92070,zoomdong,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,71da96c7b73bbfad53f43e927354cf1b848441ac,,0.00
+91629,naaa760,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,7397ee52d9463ae84bc43d638a486c04ca253b64,,0.00
+90683,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:33Z,Open,FALSE,vercel/next.js,bd0e3ab7f13c3935158ced26b6edd720acaa2980,,0.00
+91213,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,2667b5a2e38ace60e8fb9318a00e88eb0c744471,,0.00
+91627,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,2b4a2070d27f3c7dd3c7ed10cd0e58528ff43dcf,,0.00
+92068,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,0bb4c1d5664e39968587546659f6094f67bf2f98,,0.00
+90682,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,0a6a8de423527b402668779d0ce474c46d3eb513,,0.00
+91625,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,e5cc51b38f464cf53b58bd470356e73082ee6c7c,,0.00
+90678,Muhammad Saqib,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,0aa5eee7df3e14f4602a000130d6e7214e07b352,,0.00
+92067,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,405e1055fc627089e46c02d5ad844c2d31660afa,,0.00
+91623,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:34Z,Open,FALSE,vercel/next.js,d5b4eacd6dc33118f91d438d2f767043da8edfab,,0.00
+92065,Aurora Scharff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,06d25810d4127668b13246d9caf3d1cd1f4db460,,0.00
+90676,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,adb87bfa1b7d6eeaa3a989648c7d0a625c4d369e,,0.00
+91622,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,15be3f4e2bb3a2bf38e697b7f5b7bb4d893feac3,,0.00
+92064,imossaidqadri,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,bde82844857a2e6a5c1b29070004dbf677a29621,,0.00
+90675,Tobias Koppers,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,961d2c86fbe80bddbe453f3c0494ad6a34ed05b7,,0.00
+91212,Niklas Mischkulnig,35,Necrotic,FALSE,7,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,6af3ae0461e32464af87672612c7efc18b5f7e59,,0.00
+91621,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,0942e5fe327d65f80222cc9e9c6abf5a42552d69,,0.00
+90674,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,7870db5be89a60fdebfd214ac2cd732e500cf429,,0.00
+92063,Jude Gao,140,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — next|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — typescript,,0.2000,20,2026-03-30T06:07:35Z,Open,FALSE,vercel/next.js,9972d1bf565b467a07283bd92e71d95206a4dbc1,,0.00
+91620,haltandcatchwater,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,ca028b4775356326cedde60641f9026d487b1c1b,,0.00
+91210,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,8f9f1a8dc0abecf0f0f77a7375162c3b539cbdbf,,0.00
+90672,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,51cd7011adfcde6ee2e9e10a8e35ec7754957752,,0.00
+91208,Josh Story,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,e2230fd4601810a98b91be952ab0cf8655bd3dc4,,0.00
+92062,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,8c33a124d93c003a309db25d85f9822ceb08720a,,0.00
+91619,haltandcatchwater,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,cf60dfd34e790b03724870428551fe22e9083127,,0.00
+92061,Dmitrii Troitskii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,f43e83c21936985a78aec0d91fed996051d63f6e,,0.00
+91618,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,a184a50d6a224dc098d67e0539ce4f0bca79aa01,,0.00
+90671,Benjamin Woodruff,5,Necrotic,FALSE,1,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,78367216a59202333c75456c62b826f8ac24d0fd,,0.00
+91207,Andrew Clark,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:36Z,Open,FALSE,vercel/next.js,3c0d8daa598b95cd87527fa462a9e3cbb665b86d,,0.00
+91617,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:37Z,Open,FALSE,vercel/next.js,09790b13c3570d6e6550b36ef85f446fabc01d60,,0.00
+91206,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:37Z,Open,FALSE,vercel/next.js,247ab5a1279013e7599665cedfe8a59ce7722c76,,0.00
+90668,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:37Z,Open,FALSE,vercel/next.js,a21bf91fb0a7bb8ed21b39a1d4b55ce5669cf4cb,,0.00
+91616,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:37Z,Open,FALSE,vercel/next.js,0a7c11ba0593ae5ae7b2bff55c0737bee47617b0,,0.00
+92059,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:37Z,Open,FALSE,vercel/next.js,004caee08a89e8fd4c9aa9a943356de4aff2dfa7,,0.00
+90666,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:37Z,Open,FALSE,vercel/next.js,f6b0988aa84e6db1d4651ac0982381e22183a2be,,0.00
+91192,SiddhiHel,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:37Z,Open,FALSE,vercel/next.js,cf28cc9aa804d15ab9100193b7d2e264c8c02e75,,0.00
+92058,kmaclip,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,0ce4ebeacbafd813880a3255bf8689bd1ea73317,,0.00
+90665,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,c262c9d0538f46584b85af3612a00ec61f9eee33,,0.00
+91191,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,6282a5aec8133dc8f7f7f583ceabadaadae7267a,,0.00
+92057,kmaclip,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,7adeb8eb241d225adf7aa3078473c167bc6302c7,,0.00
+90664,Hendrik Liebau,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,3641f60a78260df60daf4f94e684cd7858c41d69,,0.00
+91190,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,381a4375145a7815ccc3038923dbfc2154eccdb0,,0.00
+92056,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,2da9811f0d7897540358c188b9b6d76c1e50e267,,0.00
+90663,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,7accd70c7317b13701897d95d651c787aba95c58,,0.00
+91189,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:38Z,Open,FALSE,vercel/next.js,6f23b3c829bdcfc0751c9bbe44f62231f27af67a,,0.00
+92054,Shailesh93602,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:39Z,Open,FALSE,vercel/next.js,aa599bcdabce2dc74000284cea3e858b3def4cac,,0.00
+90657,lllomh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:39Z,Open,FALSE,vercel/next.js,1cdbcf7d4844d757002e4081ac54408a8c6165fb,,0.00
+91188,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:39Z,Open,FALSE,vercel/next.js,b0c84d6bfeed3fcde5c8b1daa71e6da60ce8fe16,,0.00
+92053,kmaclip,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:39Z,Open,FALSE,vercel/next.js,dfbf3c4b72b80414bcaed9761068147900af225a,,0.00
+91187,BountyHunter Bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:39Z,Open,FALSE,vercel/next.js,4cf0cd6322ea10540ad1c6dfe26e7e8bb95442d2,,0.00
+92051,kmaclip,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:39Z,Open,FALSE,vercel/next.js,8f3332e3061db26bda11b915b12ae394bf383a94,,0.00
+92048,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:40Z,Open,FALSE,vercel/next.js,194f455ed75f0d76db907a215302b34e7b64df6a,,0.00
+91183,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:40Z,Open,FALSE,vercel/next.js,1920aac1d12ad167e89ee0da14edc62f6b2bbb9e,,0.00
+92047,Raashish Aggarwal,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:40Z,Open,FALSE,vercel/next.js,7332a4dba60dfeae24add32ff9b333607895e2e9,,0.00
+91182,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:40Z,Open,FALSE,vercel/next.js,4bc8dd958a56d234991c57d40b6273883fc9cb5f,,0.00
+92036,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:40Z,Open,FALSE,vercel/next.js,7c9b4315b02c6e366cdcb43c031faaeb2f332c8f,,0.00
+91615,Henry,990,Necrotic,FALSE,6,architecture:zombie_dependency|architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/debug|architecture:version_silo — @types/glob|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — @types/tar|architecture:version_silo — @typescript-eslint/eslint-plugin|architecture:version_silo — @typescript-eslint/parser|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — async-sema|architecture:version_silo — browserslist|architecture:version_silo — cheerio|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — core-js|architecture:version_silo — cross-spawn|architecture:version_silo — debug|architecture:version_silo — eslint|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — express|architecture:version_silo — fast-glob|architecture:version_silo — firebase|architecture:version_silo — glob|architecture:version_silo — isomorphic-unfetch|architecture:version_silo — jest|architecture:version_silo — nanoid|architecture:version_silo — neo-async|architecture:version_silo — next|architecture:version_silo — prettier|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — typescript|architecture:version_silo — webpack|architecture:version_silo — webpack-bundle-analyzer,,0.2000,20,2026-03-30T06:07:40Z,Open,FALSE,vercel/next.js,c0f8142a44691be0d7ec035d94a428e58de59d41,,0.00
+91178,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:40Z,Open,FALSE,vercel/next.js,093ae68a663b09f02d9069afa77bacf10edae537,,0.00
+90655,Joseph,300,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @types/tar|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — neo-async|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — swc_ecma_minifier (v41.0.1 vs v42.0.0)|architecture:version_silo — swc_ecma_parser (v31.0.0 vs v32.0.0)|architecture:version_silo — swc_ecma_transforms (v43.0.0 vs v44.0.0)|architecture:version_silo — swc_ecma_transforms_base (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_optimization (v36.0.0 vs v37.0.0)|architecture:version_silo — tar|architecture:version_silo — webpack,,0.2000,20,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,648dac0a34d0965f2061ddf2c5475a08ab3c2df8,,0.00
+92035,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,0482e3958c4aacae07f339bc4346fb8e154f14b1,,0.00
+91614,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,5a467fe808752f3cee584e44b1a1b334d4d8cf96,,0.00
+91176,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,6d06e2051f99a9ecb035072ecb13778ada971c72,,0.00
+90654,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,30866dd3bd28b751943f635493f11a17be69937c,,0.00
+92034,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,502f23e4e3ad1b7766032f373dd5177d510afc8c,,0.00
+91613,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,d31816d0bc912f9353fa07f3f53a72fcd2331982,,0.00
+91175,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,6b3646fceaf1ff9787c7d0587facf307bd08095d,,0.00
+90651,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:41Z,Open,FALSE,vercel/next.js,6aba30a38f302f07d832ce7c57cae3a97927183c,,0.00
+91611,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,22a15fd711785e2b5d1771d6a56575c79d941ed0,,0.00
+92033,Jude Gao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,f85e550b3bc62bdffa6d843df62ea0da745fb2a0,,0.00
+91174,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,a1199305ac451f8fb5387c6ebe2130fc5ddde10d,,0.00
+90650,"Sebastian ""Sebbie"" Silbermann",0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,ccd1be6a7edde53c658150d795f383a1df63aabc,,0.00
+91610,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,dae96e0e3475f76d95ab01fc0977f84e018fe927,,0.00
+92032,Raashish Aggarwal,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,a84649e99a059c78da99439a6ca4f3642b1b1b16,,0.00
+91173,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,cfe301a17865b4cd11d645ca0a31f0081c50922a,,0.00
+90647,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,79503596f4f6dd8bc8c4c98c6cf5dc9f4820bd9d,,0.00
+91608,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,b0588a4cbbddfcd49fc1ed768d8fc30ca417c580,,0.00
+91172,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,031a9dda61a12091addea4fa12d2043471015a8f,,0.00
+92030,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:42Z,Open,FALSE,vercel/next.js,f3453f08664bf09284d92a3ff2b273a842b41ff8,,0.00
+91607,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,fbc1e407087ac9645e6af41e50354e425d0888ed,,0.00
+90646,adonis0123,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,6a9b0105d503e4b4973b338c309bc62e858203c7,,0.00
+91171,Nikhil Patel,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,fe79642a5d1f1709b8eca415235e1849fa706ef5,,0.00
+92029,Matt Mastracci,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,07ee3ba0dc2e62fa1d19185aa615042db5d49467,,0.00
+91604,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,ac7b051ff09ce7335e513056049a818a44007f1b,,0.00
+90637,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,0164a6e6e5ea029090524a0111d915a40c9e60fa,,0.00
+92028,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,9fc815fc1487d897a31b1fd76ff4031b9c46a7a9,,0.00
+91170,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,9c7897dfcaf1ce441a4837ab3bde39ea141051ce,,0.00
+91603,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:43Z,Open,FALSE,vercel/next.js,1e1200654ef6726c7388f6bb9f6fe28c9e126208,,0.00
+92027,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,46e71f80d6484e49916bed6b4226142876650c10,,0.00
+91163,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,12786dddd24f1d5d2bfdab6e993fc6046c3e1e1e,,0.00
+90636,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,ffc4387369f5d25f35e1766b6cdf8d4c84ef7143,,0.00
+91602,wabalabudabdab,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,dc7263ba1f62e7fbb8d65a18001054b91bbba8ca,,0.00
+91160,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,1707c48bbcf0f7096e04328ebdc79167afc93110,,0.00
+90635,Devki Nandan Singh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,5e986c37ce3f50e847dfa681050232c523e9786f,,0.00
+91601,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,f5437b4cca323b3600a8f967c2d83c2482889655,,0.00
+92026,Tobias Koppers,70,StructuralSlop,FALSE,14,,,0.0000,20,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,a8d7bcfe926dac250a9e21e40793af0e6f0ff327,,0.00
+91159,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,0fce95479a1882e74e80c1a8b1f8e5104e7a7013,,0.00
+90630,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,ccad4853e4ab908eac4f39e656f43bb2d9ab9ae2,,0.00
+91599,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:44Z,Open,FALSE,vercel/next.js,26aafbf8e79c7a80552facc53905f41276269140,,0.00
+92024,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:45Z,Open,FALSE,vercel/next.js,89c0548f697aaa8b46ff68bc423fa2f2eb84c5db,,0.00
+91597,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:45Z,Open,FALSE,vercel/next.js,45f6ec0742ea398b45c1b2a3d43c9a52b22d7f40,,0.00
+91158,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:45Z,Open,FALSE,vercel/next.js,967f39058864dc7580cc48019956e46efaab8654,,0.00
+91151,Steven,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:45Z,Open,FALSE,vercel/next.js,96fe0e18ed0c05bd5da1729b4320b41afc632f32,,0.00
+92023,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:45Z,Open,FALSE,vercel/next.js,dbd8a93aeaa943d6ac421a1ab741019317dd292b,,0.00
+91595,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:45Z,Open,FALSE,vercel/next.js,20f4d36a6a4f457410717c457cf25a59d5d5ab28,,0.00
+90626,Xiaoxing Hu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,0c12c27f2d2959e13e2c225d5b0ee5e1b4204691,,0.00
+91150,Victor Loré,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,33d242741cc3fc092312602353b262df3e500320,,0.00
+91594,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,071ad16b03ae828c2987f169361cd8ba382e7408,,0.00
+91149,copilot-swe-agent[bot],0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,cddaa85f658b618a3486a6cc8879788625d455df,,0.00
+90625,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,a1f9aa0b708eeacb9d883850977fd6f1fd6ab072,,0.00
+91593,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,2aad49c32661e49f001ac57860e1abecb24bad6b,,0.00
+92022,Tobias Koppers,5,Necrotic,FALSE,1,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,f89c4a4ada5890892b30ebaf4a071b53793ec49f,,0.00
+91148,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,ae840425d576c29a91ed3f8136bc20fd8cee1516,,0.00
+90624,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,92aba255fac02d5c47ae4885572ede3f9f67cf42,,0.00
+92021,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,ecaedca640d1e0f0672c00878832d61ff416fe59,,0.00
+91592,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:46Z,Open,FALSE,vercel/next.js,04e58e1c22a72559ff772c2af766f6a2b260e94a,,0.00
+91145,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:47Z,Open,FALSE,vercel/next.js,5ad0619a113205a7713d9389123222ae94f8d0aa,,0.00
+90620,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:47Z,Open,FALSE,vercel/next.js,ada62b2c21521ecda003ca2948c47a18a016f11e,,0.00
+92020,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:47Z,Open,FALSE,vercel/next.js,f3bd181c07c199bc01241aeb21cad7c40b606999,,0.00
+91142,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:47Z,Open,FALSE,vercel/next.js,15b1e94dd0504d613a13f4aa16254b4eddb0463a,,0.00
+92019,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:47Z,Open,FALSE,vercel/next.js,f6b984ed3dd1223a531bfee4c08f3f1acd62cc71,,0.00
+90617,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:47Z,Open,FALSE,vercel/next.js,f59af9bdd9ba9dc821b45340e05bbecba96b2115,,0.00
+92018,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:48Z,Open,FALSE,vercel/next.js,55bb538f9c66d81747def97afc72f7d99f89527d,,0.00
+90615,Ofer Shapira,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:48Z,Open,FALSE,vercel/next.js,2e659d6ec5e1b9922b8eb31123f4c0bc69565810,,0.00
+92017,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:48Z,Open,FALSE,vercel/next.js,136a2bc8e8b9b32806e5fe9fdcb4d24a3604bb41,,0.00
+90613,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:48Z,Open,FALSE,vercel/next.js,480e43c6e33fc0bda30f0499f4b205e38b72106b,,0.00
+92016,dagecko,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:48Z,Open,FALSE,vercel/next.js,afc9ff99789975ff073dd7f47af5d618de3659b2,,0.00
+91591,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:07:48Z,Open,FALSE,vercel/next.js,7438fb635485f6e2abf10daa7aad41a46f57383a,,0.00
+90611,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:48Z,Open,FALSE,vercel/next.js,fb4de2e3b4d0cc9d9d6d8392288190f4542af4e5,,0.00
+91590,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:49Z,Open,FALSE,vercel/next.js,921be2a95ada59a32f1b2ebf741c1457b4cebfa3,,0.00
+90610,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:49Z,Open,FALSE,vercel/next.js,e945513503c47f7932d324f296d504878193f2c7,,0.00
+91589,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:49Z,Open,FALSE,vercel/next.js,b81be3076c94723b616edc174cfca793904b8748,,0.00
+90609,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:49Z,Open,FALSE,vercel/next.js,800ee351a7836046543ad4a86046668bc4fd0f23,,0.00
+91588,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:50Z,Open,FALSE,vercel/next.js,b06e5077b9e00fd56a6bb9d9b7eaa97724db4f8d,,0.00
+90608,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:50Z,Open,FALSE,vercel/next.js,9ad1e8360a900cff94f3fcc6273fd52437675053,,0.00
+91587,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:50Z,Open,FALSE,vercel/next.js,bc14dae1815bf6a74de6b1d50ced9f4a7f7901bc,,0.00
+90607,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:50Z,Open,FALSE,vercel/next.js,a732bcf3c0bcd66add09a0753b7d7357078a4d1b,,0.00
+91137,Tobias Koppers,425,StructuralSlop,FALSE,15,antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected (x5)|antipattern:recursive_boilerplate — 12 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected|antipattern:recursive_boilerplate — 6 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected,,0.0000,20,2026-03-30T06:07:50Z,Open,FALSE,vercel/next.js,f37a37f6aebba8bbe6043a34b3f484acf8279a80,,0.00
+91586,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:50Z,Open,FALSE,vercel/next.js,c876ad394d3f836ff8a22bcead7ab4ddc0445722,,0.00
+92015,Sebastian Sebbie Silbermann,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,02e4181c1daf2589476de467446de3d514e768c8,,0.00
+90606,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,8d391e8ac32aee932370f99fc8708d79271d2428,,0.00
+91136,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,a423cf88a4b52ed172bf9b3fa5b06a3182a6629a,,0.00
+92014,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,6bf5ca933acbe537bef2eae800e4e2e2fd99191c,,0.00
+91584,alphabet inc. Agents™®,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,fab77084491447da3545408f5fb684a9fdfd1952,,0.00
+91134,Dmitrii Troitskii,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,e8d6df052ca80a7fd2c99b5274832ec73fc3237b,,0.00
+92013,Benjamin Woodruff,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,677821a62253559253e8a9ca3413afc0696f32b8,,0.00
+91583,Webdesign29,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:51Z,Open,FALSE,vercel/next.js,d7f73c5581978e3ad669704643e0bd9182d4af96,,0.00
+91132,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:52Z,Open,FALSE,vercel/next.js,f8c4901d1abcc3f937e9b83a20c76f878a0c3e55,,0.00
+92012,Andrew Clark,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:52Z,Open,FALSE,vercel/next.js,f19bfd606919d282a0062da6185c286bde4454f6,,0.00
+91581,naaa760,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:52Z,Open,FALSE,vercel/next.js,913acba435b0ac24f98cfddb5337658c11382c03,,0.00
+91131,Matt Van Horn,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:52Z,Open,FALSE,vercel/next.js,7553ddbc128fbfeeba34acaec739b37b09b94ccd,,0.00
+92011,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:52Z,Open,FALSE,vercel/next.js,423131e42cce7316e395bd8027e6a6888d28e506,,0.00
+91580,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:52Z,Open,FALSE,vercel/next.js,e334c4b2950dbb67a3dbf6a4f8046fe2706db22d,,0.00
+91130,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:52Z,Open,FALSE,vercel/next.js,c5b1d51488e75d13214aac5aacdb952729918085,,0.00
+90605,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,f849d544ad0cc8d134594f0ff701df14337441c8,,0.00
+91577,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,dc37068c55542833c62ffb1926f1f29b1b628cf6,,0.00
+92010,bogdankrenz,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,a16d13ad92e8051923da6f14acc8fdd3a5caac8f,,0.00
+91129,Matt Van Horn,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,e0d6db467200a3d8570fe4d7dd4be5928e9a91c2,,0.00
+90603,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,18cf69b813dedeb758ed620ded784fbbee894314,,0.00
+92009,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,b5f4b5ab94e014b04de061cadbc32ea212e618b6,,0.00
+91576,Tobias Koppers,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,e7811ffa230bc80341fed6bde7a81868bbb2e256,,0.00
+91128,Matt Van Horn,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,a71c0b32dee39b0f1277da760ac5684cdc10ca97,,0.00
+90602,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,a64cb3b07974aa205eef2b8709c9bc751292841e,,0.00
+92008,Jude Gao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:53Z,Open,FALSE,vercel/next.js,ad4c78551aa76f2d6a9aa08808cc49d6649a2452,,0.00
+91127,Matt Van Horn,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:54Z,Open,FALSE,vercel/next.js,496bcb468c3307be6560f74c0e385affa7d9984a,,0.00
+91575,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:54Z,Open,FALSE,vercel/next.js,a94d7ecafe11db64681e990dbe325fc08902903e,,0.00
+92007,Bob Evans,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:54Z,Open,FALSE,vercel/next.js,da975240ebcd10078a45f1a93dd460d518e78791,,0.00
+90601,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:54Z,Open,FALSE,vercel/next.js,f2606f7726f689321b58d5468d37bae9124d5018,,0.00
+91126,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:54Z,Open,FALSE,vercel/next.js,98bce041f390be6f009974c72cf90979bde419bd,,0.00
+91574,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:54Z,Open,FALSE,vercel/next.js,fc7964d1cd072325776aee00595fb25cfb39c261,,0.00
+92005,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,091276aa7ab20d870f9706c6623362048e5682cd,,0.00
+90600,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,8c6660de229e6233382e0bf9b96e5bff692a085b,,0.00
+91572,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,ba9b1548b7df3d87d84636568bf7b8ce16134563,,0.00
+91124,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,d5f52b02e6affd6d4c39a551232d9ed930c19da0,,0.00
+92003,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,6d646ee493a3ad3be1867c485197410f04e9a7f7,,0.00
+90599,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,acca3f83502df3e974d1cb8cec48ac678dc9057a,,0.00
+91571,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,3eb8d73997a643910e35194fc23c465cbf22e5b9,,0.00
+91123,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:55Z,Open,FALSE,vercel/next.js,16d9a77858b444e351b902c6f7342bb7460f179c,,0.00
+92002,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:56Z,Open,FALSE,vercel/next.js,981b697ff089c74f6717fa75cce7dd30816c8316,,0.00
+90597,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:56Z,Open,FALSE,vercel/next.js,a4b3dfe70be1428696726c506c1307e1a3836b08,,0.00
+91570,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:56Z,Open,FALSE,vercel/next.js,a0ab3ac89dc8da8421ba2991c47552e2b995496e,,0.00
+92001,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:56Z,Open,FALSE,vercel/next.js,6dc4b04eb7f98210a00528bc3006fc5f4e0a58da,,0.00
+91122,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:56Z,Open,FALSE,vercel/next.js,95dae85005bc00e362dd44daeb5ffbee7af2f735,,0.00
+90595,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:56Z,Open,FALSE,vercel/next.js,f21367cb89471fc6f8994c0a1791348b937ce113,,0.00
+91569,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:56Z,Open,FALSE,vercel/next.js,754e3fcc4ed546df8c15186a7f82a10782332abd,,0.00
+91121,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,f0cdf43d96f6208937f8cd6b57567948df4b8cc1,,0.00
+91999,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,d6a2b7e5dc1e0520cbd80f5ab7b7b213cf8aaeb3,,0.00
+91568,Test User,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,3a33b70b4f036bc7bc2d9cb97e2b4ad62e180005,,0.00
+90594,Aditya Giri,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,48ea582612d739ac239fd5eafe26a0b49f761a10,,0.00
+91120,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,7197f7c68ecf55e1abd6e2c8845f0a389e47ca47,,0.00
+91567,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,e8710a3a29650fba94d8223f2388867a46a22e55,,0.00
+91998,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,fe7281df33b4ad6207badc0496e42de44dba152f,,0.00
+90593,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,f137377ee02cca2c7111ecb87b2bdb46662690f4,,0.00
+91118,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,167a7b20bd7f5f9c3362d04044a5a67217a0145b,,0.00
+91565,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:57Z,Open,FALSE,vercel/next.js,cb16b5d0efc4d41322d65bb122a9622684160c24,,0.00
+91997,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,1e22e337ca39256b60996e5b0883cdeb881cc421,,0.00
+90592,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,892fb71f7a4901f70070c09c142ee5d160230838,,0.00
+91114,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,2ec51132b299d828fd9676878fe185a1053e62ce,,0.00
+91995,Jude Gao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,f0b54ed3484e0c1dbb5be36b9a204828049e2d60,,0.00
+91564,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,a60fcc98d42e922332654402ff0af6cb3bfd1781,,0.00
+90590,Piotr Kuczynski,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,dd438c537b1d23e8c4d9eace4884459eab5046b7,,0.00
+91113,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,014b9987faa629accb6150c917bc328358d299a0,,0.00
+91994,OpenHands,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,eb81547880e33e4b941592dab9307952ed030cef,,0.00
+91563,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:58Z,Open,FALSE,vercel/next.js,e91a7a7a0166e6ecc1efde88d69dafd794c78bac,,0.00
+90588,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,27c2393124c5333f2357f2e3002e54e47e07e41f,,0.00
+91112,George Kapetanakis,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,087a24ac800ccc137f2554e5a52edf22af3818f8,,0.00
+91993,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,405c9526bdd442ec2301222d390e019b8cd5340a,,0.00
+91562,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,34ed23a220131e7d26590270a37fde1aae34b927,,0.00
+90586,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,e1be5adbb12fecce0005b2b891931673c6017cd0,,0.00
+91111,Vercel,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,19f848d65e69cdab9b3e97c385db8c4041042361,,0.00
+91991,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,1b5d081ab53be11f27433d9f7ef1dd64e6ce4f68,,0.00
+91561,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,0f6adcdb5734a3f9c4cc2de6abc1c1e508880000,,0.00
+90585,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:07:59Z,Open,FALSE,vercel/next.js,3fe93de071be23a7961210dc501b73654915e30f,,0.00
+91109,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:00Z,Open,FALSE,vercel/next.js,fcf5d2fa06b25d7f053d5eb6915f530f2ce1bd1f,,0.00
+91990,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:00Z,Open,FALSE,vercel/next.js,e9d219b0f766c992c30624f90355c1228d350518,,0.00
+91560,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:00Z,Open,FALSE,vercel/next.js,771818bb4e3c8a3f0d19253b4fc4aa28c95c1504,,0.00
+90584,Niklas Mischkulnig,5,Necrotic,FALSE,1,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:00Z,Open,FALSE,vercel/next.js,448a36b449c09a69f4249c5bed1da6f85b1ded49,,0.00
+91107,xusd320,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:00Z,Open,FALSE,vercel/next.js,5796cec9f39bda380d1088bc09ad3e5ac7cfb56e,,0.00
+91989,Raashish Aggarwal,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:00Z,Open,FALSE,vercel/next.js,8d1b7bd2d11ef799cdae76f6cdc5947e35ddde85,,0.00
+91559,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:00Z,Open,FALSE,vercel/next.js,5c3fce9e927aa5c20ea05e21b22c5589ddd28a5c,,0.00
+90583,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,c09c0b085f1c6bba6b40df7c8cf78ca17053b09a,,0.00
+91988,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,ddc9875ca5eb5c70bb810f415c3b67a2062cb9aa,,0.00
+91101,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,9dadd5eb38be9fb6c785a8b6ffc8f74eabf60681,,0.00
+91558,Sebastian Sebbie Silbermann,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,19120edba4a1964a4d335596ad4e0c0f1ba943bc,,0.00
+90581,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,2ccaa11a31727768c6baff4c0ca99f94e72f9290,,0.00
+91987,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,cd819e60048b4e8ad9e445cbd489ce955a40422f,,0.00
+91557,Joseph,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,66a2178f43cc7d7cd616a8711b5b55d9ff0fda0b,,0.00
+91986,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:01Z,Open,FALSE,vercel/next.js,66a8e557570bf62932ba070ab628a5253f6fba5c,,0.00
+90580,Gus Fune,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:02Z,Open,FALSE,vercel/next.js,98a08dd2d3e9824d5c4a3c1a1eb4d2e10c3547ea,,0.00
+91553,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:02Z,Open,FALSE,vercel/next.js,1020d1875f3bd5345e9921c1cc4c08114993a461,,0.00
+91100,Niklas Mischkulnig,35,StructuralSlop,FALSE,7,,,0.0000,20,2026-03-30T06:08:02Z,Open,FALSE,vercel/next.js,987f46cf20d0134b7544735d83ecabe13eff545f,,0.00
+90578,Jiwon Choi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:02Z,Open,FALSE,vercel/next.js,8f2a64d242bfe7473da6abf5d8d922627686ee24,,0.00
+91543,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:02Z,Open,FALSE,vercel/next.js,1613b6ac64f3f526000ef517983a1652df87a6af,,0.00
+91099,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:02Z,Open,FALSE,vercel/next.js,99d44d2ed3aebb39ee86b0d4ac11ade5ee5685c7,,0.00
+90577,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,6e09d4d6dd7ff5efbba2323036a4ebd7684ae671,,0.00
+91985,Luca Schneider,215,Necrotic,FALSE,33,architecture:zombie_dependency|antipattern:recursive_boilerplate — 8 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected,,0.2000,20,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,829157fbb433e4d09cf72ffb1e42264199e4a3c5,,0.00
+91541,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,dce59430846dc9843db56fbab65cfec09c56d161,,0.00
+91983,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,17fc166b13a07ea7a2f51a01e5518555ed352bc2,,0.00
+91097,devjiwonchoi,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,11c03cccf2bdea8430cce62052c7b9581b63a60a,,0.00
+90574,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,fda17f5d600bfffed9361e67106d12dfe1015edb,,0.00
+91539,Benjamin Woodruff,50,Critical,FALSE,0,security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=2),,0.0000,150,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,eb2f3172d05860685e6aec50b5e621e8c1b54cb0,,0.00
+91980,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,440e4b570dee340aa83368db62fd5fecb3b77e9a,,0.00
+91095,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,5190d2d8d564b39b732d9adef25fe8e421f5979e,,0.00
+90572,Rohan Santhosh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:03Z,Open,FALSE,vercel/next.js,4c15bf59208788700914a5ed92d8a37ae6a8d21a,,0.00
+91538,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,42ea8bfe7f3d840708b14540655e0f855b691184,,0.00
+91094,root,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,7db932d589e48b749ca919b937192bc46518f112,,0.00
+91979,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,f4a361a78b2e0555afbf296ce4689fb255079759,,0.00
+90571,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,c2e7da6d7da5b1bfbce36c24f6ae8cb7ad7487b6,,0.00
+91535,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,509b4a00b1565a50ce5c053740ee0001d9aa5e47,,0.00
+91092,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,51e5904318ee673a1d3f94a876d34158e1c61010,,0.00
+91978,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,88c6b060c273ebd060335a5a0a59562f55429b21,,0.00
+90566,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:04Z,Open,FALSE,vercel/next.js,83094ea8edceebae0af0efc35fe507687a7912dd,,0.00
+91976,Gdhanush_13,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,e1af1717cada96c323791879395f4a0ce8538729,,0.00
+91534,Luke Sandberg,265,Necrotic,FALSE,5,architecture:zombie_dependency|architecture:version_silo — convert_case (v0.10.0 vs v0.6.0)|architecture:version_silo — jni (v0.21.1 vs v0.22.4)|architecture:version_silo — jni-sys (v0.3.1 vs v0.4.1)|architecture:version_silo — nix (v0.30.1 vs v0.31.2)|architecture:version_silo — r-efi (v5.3.0 vs v6.0.0)|architecture:version_silo — redox_syscall (v0.5.18 vs v0.7.3)|architecture:version_silo — reqwest (v0.11.27 vs v0.13.2)|architecture:version_silo — siphasher (v0.3.11 vs v1.0.2)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — sync_wrapper (v0.1.2 vs v1.0.2)|architecture:version_silo — twox-hash (v1.6.3 vs v2.1.2)|architecture:version_silo — winreg (v0.50.0 vs v0.51.0),,0.2000,20,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,a2b050f96bb2d36d66d0017253178bb0f6ca5c4f,,0.00
+91088,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,c2bb709528181b7b7d906e460a31021ddfa41607,,0.00
+90565,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,625d05ba0b064f3c396df366c10c2b201919e69d,,0.00
+91975,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,8caeb0238dc82ea8e9f741eca48a1fdfb30e10a9,,0.00
+91533,Luke Sandberg,480,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — convert_case (v0.10.0 vs v0.6.0)|architecture:version_silo — cranelift-bforest (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-bitset (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-codegen (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-codegen-meta (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-codegen-shared (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-control (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-entity (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-frontend (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-isle (v0.110.2 vs v0.125.4)|architecture:version_silo — jni (v0.21.1 vs v0.22.4)|architecture:version_silo — jni-sys (v0.3.1 vs v0.4.1)|architecture:version_silo — nix (v0.30.1 vs v0.31.2)|architecture:version_silo — r-efi (v5.3.0 vs v6.0.0)|architecture:version_silo — redox_syscall (v0.5.18 vs v0.7.3)|architecture:version_silo — regalloc2 (v0.13.5 vs v0.9.3)|architecture:version_silo — reqwest (v0.11.27 vs v0.13.2)|architecture:version_silo — siphasher (v0.3.11 vs v1.0.2)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — sync_wrapper (v0.1.2 vs v1.0.2)|architecture:version_silo — target-lexicon (v0.12.16 vs v0.13.5)|architecture:version_silo — twox-hash (v1.6.3 vs v2.1.2)|architecture:version_silo — wast (v245.0.1 vs v35.0.2)|architecture:version_silo — winreg (v0.50.0 vs v0.51.0),,0.2000,20,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,556ef7f626e39c292f81fb300906e5ff8702f10b,,0.00
+91087,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,008bc8b98a27fb155b8a689710839be89333ded1,,0.00
+90562,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,b86d86cd32366367fbbbedc39276c703d4be29ab,,0.00
+91973,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:05Z,Open,FALSE,vercel/next.js,f82ec46e0866195d262cd7cc80a3f7c13cc366da,,0.00
+91532,Luke Sandberg,240,StructuralSlop,FALSE,0,architecture:version_silo — convert_case (v0.10.0 vs v0.6.0)|architecture:version_silo — jni (v0.21.1 vs v0.22.4)|architecture:version_silo — jni-sys (v0.3.1 vs v0.4.1)|architecture:version_silo — nix (v0.30.1 vs v0.31.2)|architecture:version_silo — r-efi (v5.3.0 vs v6.0.0)|architecture:version_silo — redox_syscall (v0.5.18 vs v0.7.3)|architecture:version_silo — reqwest (v0.11.27 vs v0.13.2)|architecture:version_silo — siphasher (v0.3.11 vs v1.0.2)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — sync_wrapper (v0.1.2 vs v1.0.2)|architecture:version_silo — twox-hash (v1.6.3 vs v2.1.2)|architecture:version_silo — winreg (v0.50.0 vs v0.51.0),,0.0000,20,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,dc7f06bfb372b2534b5b4fc5ae6759077167cedd,,0.00
+91085,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,f2b9310bb875443ae7cd416443c06310ae4d287c,,0.00
+90561,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,0eb96d51697327e727a135c6eb8cd022370a590c,,0.00
+91971,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,37493eb60e1cbfbf1e02632a06af805b1eb07b17,,0.00
+91530,Benjamin Woodruff,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,e606dc2a21de5cec673b9c8012c10a92a69e6a4b,,0.00
+91084,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,dcb4f565692c64e03cbc91b54629ac9d1188f5af,,0.00
+90556,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,fb0ce9e59b5719a1e6e4e5217d44aba57c23cfed,,0.00
+91970,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,e1f465c6112268e73d8843ef2808aa5191a145c2,,0.00
+91529,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,ddf5e69c9d1765db0b05ea51dd09df739dcbd425,,0.00
+91079,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:06Z,Open,FALSE,vercel/next.js,818db349433cb9b848d9c624c14ff045cae7dfef,,0.00
+90555,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:07Z,Open,FALSE,vercel/next.js,52c84e89cc208f20a79176bcb93118d507a66633,,0.00
+91969,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:07Z,Open,FALSE,vercel/next.js,9460250a9bd9f2852c78b930171f224492dcda33,,0.00
+91528,Jiwon Choi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:07Z,Open,FALSE,vercel/next.js,4cbdb9b192dd8c29980197f021c59bb2e7482093,,0.00
+91077,Neiland85,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:07Z,Open,FALSE,vercel/next.js,a0c05135a7661c3e92e2207502d3a9db39b54eab,,0.00
+90554,Dmitrii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:07Z,Open,FALSE,vercel/next.js,bb1eafe019836a3ba9b605f81ca15f7a420baa0f,,0.00
+91968,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:07Z,Open,FALSE,vercel/next.js,4135cec6f617aa888310177c62114c9b2b86635e,,0.00
+91527,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:07Z,Open,FALSE,vercel/next.js,a341dd19924c965c4bfaad35be51f1e62a1bfcc2,,0.00
+90551,youssef,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,e8fa3a2d083eded65b0d9bf8a6398ecb03c950f1,,0.00
+91074,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,38e0afd80ae2c90470c119004d6a1ea7c8e9c2b1,,0.00
+91967,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,ab35610f051fdf9be0e23dcbefb5d72ea0405179,,0.00
+91525,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,f22f75d4080fd55f61c9f6dddb7657ba65f28cdf,,0.00
+91069,Neiland85,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,7ee9d17d081576b0d5bfb37899bb61f885a89313,,0.00
+90550,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,7e6389b4e7f671057b4dd14f1ad2740fcdeb0eba,,0.00
+91966,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,b2ad24f4f9e0553a4097f25c4058247c8f938ee4,,0.00
+91524,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:08Z,Open,FALSE,vercel/next.js,2c2996ed8df17b465fed54161309943b96d25461,,0.00
+91065,Kowyo,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,d57a93d635b056815aa3c476011c49ca9fa68521,,0.00
+90549,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,d72e46c393862e8e178b318081d3edb021b094f3,,0.00
+91965,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,3c44ad8a5753d3356d2c18a3c9665a45918d4e38,,0.00
+91523,Hamilton Turner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,d6d57fd90eab7f4a13882b8872d67c3acae25786,,0.00
+91057,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,3904dcee58a0f00ab2598a74fd994ab2035b1b8e,,0.00
+90548,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,cea54e481424cf3723e5a999bc59d53569293213,,0.00
+91964,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,3646ee60db4d40325b7d778638bf2492cf715dff,,0.00
+91056,gambletan,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:09Z,Open,FALSE,vercel/next.js,e5baf1615a93a44d9ea88a2bdf8a3f23e9a832b5,,0.00
+91963,Ben Gubler,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:10Z,Open,FALSE,vercel/next.js,16121e4ba8cf9ee3fa890f925785007ee9ff5589,,0.00
+90545,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:10Z,Open,FALSE,vercel/next.js,0c3058a82fb2374433f738e72903350b05a20ae9,,0.00
+91055,Kévin Boutillier,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:10Z,Open,FALSE,vercel/next.js,7ca88dad585bcc4cb3addad8793ec270a74d43ff,,0.00
+91962,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:10Z,Open,FALSE,vercel/next.js,5b568a2b1b97e8db9f5356c9271cbc559d569471,,0.00
+90543,Benjamin Woodruff,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:10Z,Open,FALSE,vercel/next.js,4dfcb1893859fae457b7659f522e0a6bae558ec6,,0.00
+91053,Ali Jaafer,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:10Z,Open,FALSE,vercel/next.js,f5e6923f92e6bb51fa8d1670f1d997ed63adbc9f,,0.00
+91958,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:10Z,Open,FALSE,vercel/next.js,0253e825bef21981c3d18478b650f4e62d99ed85,,0.00
+90542,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,77e936b213152a1075fe226bda9f32eeb0a4de4b,,0.00
+91051,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,38ef5e5f79b3e932ff0d8bcede4eb090650e5572,,0.00
+91957,Dmitrii Troitskii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,6e0f51fa8c35dcc7c107643b442a6fd6e18448e5,,0.00
+90541,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,6d3950c658779f110fabdc30e835235ea9aba276,,0.00
+91522,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,314f884abfbc8365b6852386efafeee38b4890c2,,0.00
+91050,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,6b3e143bfbfd264a210d30ee009bc59ca15e02dd,,0.00
+91956,Alfonsus Ardani,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,a3503c9dd9419b80a7b3d2aedbd5a242dfb79e03,,0.00
+90539,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:11Z,Open,FALSE,vercel/next.js,77ae56e3cf6ffa38a24eace9a471c684b7184603,,0.00
+91049,Ben Gubler,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,d873364c0c603576671a9ec8d5c6e8e5246b5859,,0.00
+91955,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,82055936f3d4d8a0490873001e8a822649bf7fe4,,0.00
+91521,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,217ebb02bf71e352e894f13e957d6f6a1ad0c1ff,,0.00
+90534,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,9d9b10298bd8cef397bdaa756bf21ddd7fbf0292,,0.00
+91045,Ben Gubler,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,a71ea0216cb2eae7326ac505ad726563ee445b45,,0.00
+91520,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,e44c42b84aaf8e91fc04187c1b2cfbc9ebe55e1b,,0.00
+91953,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,b08842eff60ce451e58c093fa0188cac59c0e9b5,,0.00
+90533,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:12Z,Open,FALSE,vercel/next.js,886690dbf875e8371598d27ec9281dd170f39489,,0.00
+91044,Anuj Boddu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,37a5c9d44f0a675d7dd025f83337143b377ba6ae,,0.00
+91952,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,8cba69183f50f3148524fe1836c97d902db0c31b,,0.00
+91519,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,fc10bf5f6721207156d8005f905aaeb09cd8d9a7,,0.00
+91949,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,e7ea1c01483b8c206235e8345abc78224ca4171d,,0.00
+91042,Neiland85,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,ec9a4e4920669005ea2a9e685d5d5f7d235b6c2a,,0.00
+90532,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,8bc40bde5c801d71d034c9ac0db97577bb8cf7ba,,0.00
+91515,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,e21e50c043b9bbfc2868da808cbc3ee17a1949a9,,0.00
+91939,buyuan-dev,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,7650baab5b0d4e2d08b67bcdb32d9af6cd0403e8,,0.00
+91041,Neiland85,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,a16c31fff5d356ee432fce111baf46dfa7bd5e1e,,0.00
+90531,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:13Z,Open,FALSE,vercel/next.js,a4a1c092625ab4fdc47698bd7add73e61f10ad7e,,0.00
+91514,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,1ddba7a919c06ad5d8ce32ea51e96ebe89eb7504,,0.00
+91937,JustSouichi,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,cf976ffdb07ae119f00ead979b30fb1f8c69e643,,0.00
+91039,Felipe Coelho,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,96345d0ecfaf130140738e91c4e136993e463786,,0.00
+91513,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,b8693b5a6a751dfa2b569f73928c818fa48b5a50,,0.00
+90530,Niklas Mischkulnig,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,a304b300364b3e8eb7e0218005c97d4373e314c2,,0.00
+91028,MattQ,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,a649b196ec14bea03dfc1d745d2936516b7a072a,,0.00
+91936,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,d4b216a36a14e78845a94766ec12e568af277247,,0.00
+91511,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:14Z,Open,FALSE,vercel/next.js,14ed237e6730d19e4614673b850fedcfbda1f0ff,,0.00
+91022,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:15Z,Open,FALSE,vercel/next.js,a7c13988753f9c512f40754127ecfadf988ea27b,,0.00
+91935,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:15Z,Open,FALSE,vercel/next.js,ee2e24bb46cb1bcde0b3a412f7b9b9b41947a665,,0.00
+91510,배경진,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:15Z,Open,FALSE,vercel/next.js,197942ce43da1aa22ce42863ad71d25f6ee7b657,,0.00
+91933,Chris Nyhuis,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:15Z,Open,FALSE,vercel/next.js,828982b3b78485856ca62e3485d735631b0b7b81,,0.00
+91021,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:15Z,Open,FALSE,vercel/next.js,feb8bbb1630969022f4c058243e6cbdf166e2226,,0.00
+91509,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:15Z,Open,FALSE,vercel/next.js,9393e57042e1d18826f50d107533a25ef106e747,,0.00
+91931,Zed,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:16Z,Open,FALSE,vercel/next.js,9d946116fc5f3505f8238ddd303a935b0fd58bf9,,0.00
+91020,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:16Z,Open,FALSE,vercel/next.js,41aeb95ffe5bbbe778290753c4a9e5690dcd1643,,0.00
+90529,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:08:16Z,Open,FALSE,vercel/next.js,91a98680dcf1ca27faec44c1745191115301e810,,0.00
+91508,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:16Z,Open,FALSE,vercel/next.js,3e3517afc042629aea873993e2abe26bbbd8bf43,,0.00
+91930,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:16Z,Open,FALSE,vercel/next.js,f4bc5c262d000c6a32e6610d5cf80d1885985bd4,,0.00
+91019,Ben Gubler,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:16Z,Open,FALSE,vercel/next.js,af6250656d3afc0aa4fd305c048ab9640552ce7e,,0.00
+90526,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:16Z,Open,FALSE,vercel/next.js,7671c5deca62ef39f7a2480989c1522b68a70782,,0.00
+91507,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,533f5056f11c3fd12e400e2d7b73cc47051b22f5,,0.00
+91929,Aswath-Senthilkumar,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,210449c4acc965f4a988d3d58facc217e0ef9da5,,0.00
+91018,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,093fa1a7aa3026388a953774d37cab94929e1608,,0.00
+90525,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,585b9157c91643d3290335534c0881567eed3e7d,,0.00
+91506,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,b1c1094a6ac1260d44f437efc3b05f12b78dbdce,,0.00
+91925,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,724a0dae32e4787dfa79d8a7bc02383224832874,,0.00
+91016,Benjamin Woodruff,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,2edb3b81752b9d6f2c2a8ad75e7ddfd8c17721e2,,0.00
+91505,배경진,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:17Z,Open,FALSE,vercel/next.js,ce2081cafbfcb5cc89bde753701ad1140ac92497,,0.00
+90516,Niklas Mischkulnig,15,StructuralSlop,FALSE,3,,,0.0000,20,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,28f2a1dc58796a8eba8fc57f72464be3cb71ff6f,,0.00
+91010,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,a0f12a94c09eaef65813ce33fa0c3448b7158504,,0.00
+91924,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,1daa46d35de9024094b73f609d4ab117b32f19f5,,0.00
+91503,Vercel,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,b7b326452d73157f4a104730523ddc60b5cab541,,0.00
+90514,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,e2698a45b5f08c4bf3abb349540dd4ea39d2a37d,,0.00
+91923,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,6366b7d300c8a6f0dbac5d6b4b186d949d4ac7aa,,0.00
+91005,Sam Selikoff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,e01869528515a208baca0766369a281a93c0cb5c,,0.00
+91922,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,3da302fd8d73133aaf75aeef2530510632258a59,,0.00
+91004,root,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,30a3834cd72cedec0073ce5816ee0da5e106014d,,0.00
+91500,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:18Z,Open,FALSE,vercel/next.js,c02f32ec3a2bff4fa8152fe35aa1ab5743bdfa20,,0.00
+90512,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,529915b56ef802da4df94d9f8e6671767d6531e1,,0.00
+91920,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,61223a53940e10b8c1e3fc0edf3c04a88b5eede9,,0.00
+91003,root,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,14c894c37c083bdcad736f20d9d72c9d85bb9892,,0.00
+91499,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,04cab8d97cf1cab8fe59ad7d878a74b7ea911214,,0.00
+90510,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,da277a12b6e85a3a42adc0c10ae5183a252194b1,,0.00
+91919,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,f20c1630e60d9ae0c7d5712be2b74b818037e57f,,0.00
+91497,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,b74fb374002941f00bae956ec42396ef5116ae42,,0.00
+90506,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,57648fef0f5dc84014eb243e341ae3079ee70d1d,,0.00
+91002,Niklas Mischkulnig,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — prettier,,0.2000,20,2026-03-30T06:08:19Z,Open,FALSE,vercel/next.js,fd72e696485eeddab3a3171b1597707ef388ec92,,0.00
+91918,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:20Z,Open,FALSE,vercel/next.js,227e4a4a8bb4865c335d0c321dce95e88ffc8f6b,,0.00
+90504,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:20Z,Open,FALSE,vercel/next.js,746af9cb78344f20f058431bdee64495c8c2f9a2,,0.00
+91495,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:20Z,Open,FALSE,vercel/next.js,973a1ac658e23e5bf873291af58cde91559e3e8e,,0.00
+90996,Jude Gao,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:20Z,Open,FALSE,vercel/next.js,da83deaf91e474aa78da2442d321d349eb9dc49c,,0.00
+91917,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:20Z,Open,FALSE,vercel/next.js,c92b99a458fa023ed83e82dbe4f13010fdbb6535,,0.00
+90503,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:20Z,Open,FALSE,vercel/next.js,60cfd09fcbe3c2c129936ddf9cb70ae33b62e9d9,,0.00
+91494,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:20Z,Open,FALSE,vercel/next.js,a5266f537f29182aee36100d16469ca37b41c200,,0.00
+90995,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,2e377b80459e4ee0d2ae906566d2284c63aa7646,,0.00
+91916,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,5a5d6a600f7a99cd01f2695ec50333432a77da58,,0.00
+90500,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,c51e1060940b244a68f69977a001eede947bbd52,,0.00
+91493,easonysliu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,16b994e77075a0db7d7a158ae272ab13a9a6070f,,0.00
+91914,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,70b917d3cc62e71f3ff19827bb029adcc1b6c89f,,0.00
+90992,Delba de Oliveira,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,3b8866ec9b7286ab93ca81821489599ac6a0ff9f,,0.00
+91492,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,18e57cd1bf14a0116dc9d8a121d5caa478b128d3,,0.00
+91913,HOBBIT-BrainPay CEO,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:21Z,Open,FALSE,vercel/next.js,2d62549cc22f608e7bc36a104c08721219d72dd4,,0.00
+90991,Delba de Oliveira,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:22Z,Open,FALSE,vercel/next.js,21d6729e9ac5c2e0265bf1e8c19778315b5f8ccc,,0.00
+91912,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:22Z,Open,FALSE,vercel/next.js,c8bef27288106875e9e4990e4dae735305027102,,0.00
+91491,NotBlack&NotCrow,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:22Z,Open,FALSE,vercel/next.js,a2754d8eaf8254dbf219bdce08d1c4c492a3ea44,,0.00
+90499,melodyc,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:22Z,Open,FALSE,vercel/next.js,2368d189e6ef2f296af305a3d150f3dce5eab1a0,,0.00
+91910,hjick,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:23Z,Open,FALSE,vercel/next.js,94a56419b75d4a135aa880eb72d71d50fcc5da92,,0.00
+91488,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:23Z,Open,FALSE,vercel/next.js,0de21b5dfcde7762836dce9f8716d3492f0084c4,,0.00
+90498,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:23Z,Open,FALSE,vercel/next.js,2519b5521166e3537f7884c90f6a5fdadf2f67db,,0.00
+91909,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:23Z,Open,FALSE,vercel/next.js,b4fe0840fdadfdb8bee5e7c215995a83850898de,,0.00
+90497,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:23Z,Open,FALSE,vercel/next.js,2f6d712f7a9e72e896aac88feecd136f63757238,,0.00
+91487,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:23Z,Open,FALSE,vercel/next.js,2458d4caaec9e3975b4f8f5d7358b856d37fc85e,,0.00
+91907,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:24Z,Open,FALSE,vercel/next.js,09497179e37d1bee43509b28736af68859a32f6e,,0.00
+90496,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:24Z,Open,FALSE,vercel/next.js,b80969a0777d852e788596cdb92e62d626ac77e5,,0.00
+90989,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:08:24Z,Open,FALSE,vercel/next.js,0e2e49926b349f3dcc5b405ac7db20b8ac38e8f9,,0.00
+91486,Jude Gao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:24Z,Open,FALSE,vercel/next.js,a1b1a3bf107302e3b7d9038cbfb387d108da51a5,,0.00
+90495,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:25Z,Open,FALSE,vercel/next.js,5494186a7fe0884d68f3d499821721ab71d6aa0a,,0.00
+90986,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:25Z,Open,FALSE,vercel/next.js,5c9e6687c475539ddb75ac2f674345a44f62f388,,0.00
+91485,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:25Z,Open,FALSE,vercel/next.js,77c46b333c52a56a26553355a11c060ae3e2ac22,,0.00
+90494,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:25Z,Open,FALSE,vercel/next.js,ed6a2d52475a01a364f4c82021f7b9d530b997d2,,0.00
+91483,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:25Z,Open,FALSE,vercel/next.js,49e8b62b0e4bd8579f88a722eeaae10f84448de8,,0.00
+90980,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:25Z,Open,FALSE,vercel/next.js,02ca07cd8b0d8e5312767beee75cc3fe5c9084cd,,0.00
+90493,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:26Z,Open,FALSE,vercel/next.js,be4817585a0c8c971891269507a53f8f3b4d7d9a,,0.00
+90978,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:26Z,Open,FALSE,vercel/next.js,4d1ab99fcd375f808fcf9f94b1fba0c13d8b89f4,,0.00
+91480,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:26Z,Open,FALSE,vercel/next.js,a4eb4cc947b273df8c386afa041808d07a288062,,0.00
+91905,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:08:26Z,Open,FALSE,vercel/next.js,9f3a8cd3027e98b42be322e8f3d00037a1ab3f97,,0.00
+90477,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:26Z,Open,FALSE,vercel/next.js,5f83b5b57a82c755bb9f2862a2753da975db0a02,,0.00
+90976,Kuldeep Dilliwar,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:08:26Z,Open,FALSE,vercel/next.js,f27c39d4bc964278a1049fa3c1aebf87135b8012,,0.00
+91903,Dan Montgomery,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,a2ec9a8d6afa776a6b693ef52f7651ceb3fcf620,,0.00
+91479,"Sebastian ""Sebbie"" Silbermann",0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,a0792680a5aef91367501808723cfda48c2eea06,,0.00
+90475,Andrew Imm,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,749da8df8c91459dd4cb2cc14e6ad502e6f7768f,,0.00
+90971,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,c576eee386c4390646018b682c840dbb8e9c7784,,0.00
+91902,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,cd88bf2a96e04ffa8a12097585fca32fe6439899,,0.00
+91478,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,f6b3b6bea01cbe33a65cc7e7c4c939d9d6395408,,0.00
+90474,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,acadf516179cf0a27c5c8a58e0c6e2b5323af29a,,0.00
+90970,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,0576f0979ecf86f5be45dbc8379ab7c64171dbf1,,0.00
+91899,Kane Wang,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,7aaa4335f82ec7784805d8fdc029f7f5bc258f21,,0.00
+91477,Matt Mastracci,50,Critical,FALSE,0,security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=20),,0.0000,150,2026-03-30T06:08:27Z,Open,FALSE,vercel/next.js,2683091e60c5885a42b0ffb2d836daf2ff611a24,,0.00
+90473,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,6db1b7333c04882a6e2600289187f942d2e5e214,,0.00
+90969,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,130a0c12bca728a3901c34952272cb039d580bfb,,0.00
+91897,ISHANT PATIL,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,5b5f0254944cc512b9896c65f0a7ffa8cf57032f,,0.00
+91476,Will Binns-Smith,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,c6017dab02eb1a65465d42e7aaef83674b2737e6,,0.00
+90968,Moma,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,5e4a967eead44a5c9b824d33e9c9b1ffd80c9f7b,,0.00
+90472,Matt Mastracci,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,ec5056c422c24e07faa3f790a9ca0f097e8c9b07,,0.00
+91893,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,f0c59abd1d37a7a875a64f8867782d53b9f7a848,,0.00
+90967,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:28Z,Open,FALSE,vercel/next.js,6456026a6b43e44e9524c583240e37b3a2353038,,0.00
+91889,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:29Z,Open,FALSE,vercel/next.js,26edcf3a4a8a776be250dd666a208788cb7327dc,,0.00
+90966,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:29Z,Open,FALSE,vercel/next.js,e7f5dda10df23e84c93992db2be8518a9748e7a1,,0.00
+91888,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:29Z,Open,FALSE,vercel/next.js,a40b8e3b70005e673eb982e7777c974bcf185418,,0.00
+90964,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:29Z,Open,FALSE,vercel/next.js,f3d14ca68cb757957873edef921233e70a56cda9,,0.00
+91474,Niklas Mischkulnig,35,Necrotic,FALSE,7,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:30Z,Open,FALSE,vercel/next.js,a3353570797047cca7fa0e4db81e21cd3bd2f34b,,0.00
+91473,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:30Z,Open,FALSE,vercel/next.js,ce9e86440e87de19aabcac6f39cd440ddeed931c,,0.00
+91885,Jimmy Lai,180,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — picocolors|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — webpack,,0.2000,20,2026-03-30T06:08:30Z,Open,FALSE,vercel/next.js,5d2b57b051c07bad31658643c9bbf735604281ec,,0.00
+90959,Andrew Clark,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:30Z,Open,FALSE,vercel/next.js,cf731d8dff0f9f9318ac6bda6af6b137f5383bcd,,0.00
+90471,Zack Tanner,300,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @types/tar|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — neo-async|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — swc_ecma_minifier (v41.0.1 vs v42.0.0)|architecture:version_silo — swc_ecma_parser (v31.0.0 vs v32.0.0)|architecture:version_silo — swc_ecma_transforms (v43.0.0 vs v44.0.0)|architecture:version_silo — swc_ecma_transforms_base (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_optimization (v36.0.0 vs v37.0.0)|architecture:version_silo — tar|architecture:version_silo — webpack,,0.2000,20,2026-03-30T06:08:30Z,Open,FALSE,vercel/next.js,e03dd74dd4fbb5ad7905c76994c2f544ae037a40,,0.00
+91884,Krishna Chaitanya Balusu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:30Z,Open,FALSE,vercel/next.js,3876c9553a407cdc54b7b04149cc454493f3c6a2,,0.00
+91472,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:31Z,Open,FALSE,vercel/next.js,100451e46cfa1053235293230a2e7ecbc7b1c5df,,0.00
+90957,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:31Z,Open,FALSE,vercel/next.js,592d5ab8e9e1ea8e145d996eab85a670fedaa16b,,0.00
+90470,Andrew Clark,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:31Z,Open,FALSE,vercel/next.js,d5919edc696570e400fd8069b9204fc8d81a4f49,,0.00
+91470,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:31Z,Open,FALSE,vercel/next.js,428dff0be4072ffb145f40d5a7b4b87374a5c6bd,,0.00
+91883,Engy Park,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:31Z,Open,FALSE,vercel/next.js,9a7d2d2ccf5b105d4e4da091107f2f0e11045d8d,,0.00
+90469,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:31Z,Open,FALSE,vercel/next.js,16028969ea381e3348f0b683f3752832e7687b76,,0.00
+90956,Jimmy Lai,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:32Z,Open,FALSE,vercel/next.js,2471a69702493c70b67c02a61d581e84743a9833,,0.00
+91882,Dmitrii Troitskii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:32Z,Open,FALSE,vercel/next.js,c86141fbd14fa04c547af298f0defac0ccd5d0be,,0.00
+90466,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:32Z,Open,FALSE,vercel/next.js,143fef8748842f9d7bff31f58a6dfdd5c2061d57,,0.00
+91881,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:32Z,Open,FALSE,vercel/next.js,abeb406ed3425a54b854c468641a7db8c7db6c3e,,0.00
+90953,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:32Z,Open,FALSE,vercel/next.js,de04678acca7926011787066ec17a29b1d4bf575,,0.00
+90465,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:32Z,Open,FALSE,vercel/next.js,cc5d285fbbce1097cf16751d17f4152cdfca98fd,,0.00
+91880,Darner Diaz,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:32Z,Open,FALSE,vercel/next.js,43733899034bdf5b7a50d0b02cb624cca6d628c4,,0.00
+90950,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,edf950d232588a08976cdc09c559813097efb0d0,,0.00
+90464,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,b872030e7bc4850dc9922bedc374c7f447078d75,,0.00
+91469,Steven,300,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @types/tar|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — neo-async|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — swc_ecma_minifier (v41.0.1 vs v42.0.0)|architecture:version_silo — swc_ecma_parser (v31.0.0 vs v32.0.0)|architecture:version_silo — swc_ecma_transforms (v43.0.0 vs v44.0.0)|architecture:version_silo — swc_ecma_transforms_base (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_optimization (v36.0.0 vs v37.0.0)|architecture:version_silo — tar|architecture:version_silo — webpack,,0.2000,20,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,1431538607216ba999667f15769ee783a767b4a2,,0.00
+91879,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,a13837d50910aa561ae0e37eb20e4cd6690a0807,,0.00
+90949,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,51a1a33d5dd30a75f73505e70c568b8adbfd48d7,,0.00
+90463,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,393288fb3c983681700ba9db23867f6b65b4712a,,0.00
+91878,tmoh-figs,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,2c7b88a79787779e791db52044481273ea5a1b3e,,0.00
+91468,Luke Sandberg,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,ea88f2d0ffb6edfe953e491d58d9291b6d25c75a,,0.00
+90455,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:33Z,Open,FALSE,vercel/next.js,e2f28d4d0463f9fc3c42c0fb7f90048881171a96,,0.00
+90948,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:34Z,Open,FALSE,vercel/next.js,35597824434b5a14b4feed60e0e28aaacad98b2b,,0.00
+91877,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:34Z,Open,FALSE,vercel/next.js,aaa849d992e3ca59599048a15967dd375ad23193,,0.00
+91467,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:34Z,Open,FALSE,vercel/next.js,c3479127c0e3bdebc0dff2f64f0d97ae23981f18,,0.00
+90454,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:34Z,Open,FALSE,vercel/next.js,ab8b7a4cddcc7ffa5084485b3c140980925fbc25,,0.00
+90945,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:34Z,Open,FALSE,vercel/next.js,14f1da3a880b624b61f61ca3cf6edf93039395f5,,0.00
+91875,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:34Z,Open,FALSE,vercel/next.js,b7788da2461210314c78950f55c23855a2418706,,0.00
+91466,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:34Z,Open,FALSE,vercel/next.js,3e8bcd81eb9d06aad004d3e720fbf98d769b3adf,,0.00
+90944,RYAN AKMAL PASYA,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:35Z,Open,FALSE,vercel/next.js,bd7c862bf5e7cc77b4ef0960343e3e522d0895c5,,0.00
+91463,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:35Z,Open,FALSE,vercel/next.js,fb8727a2efe1ce588f42b1fc5b41b6f28b7fa988,,0.00
+91873,Matt Mastracci,5,Necrotic,FALSE,1,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:35Z,Open,FALSE,vercel/next.js,dc76184737daaa47b9184d767d7b505cccb45a7d,,0.00
+90943,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:35Z,Open,FALSE,vercel/next.js,299403443defe74e436c7cc9509e929748931d6c,,0.00
+91461,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:35Z,Open,FALSE,vercel/next.js,0dbdc97a3cb4dbb114b28cdaf2b0f305464714bc,,0.00
+91871,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,bb01fed8b8af58c65540f9bef92b51ce6cf76a06,,0.00
+90941,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,41780464ee454e72f9293ace99215d9f56c13f19,,0.00
+91457,Zafor Abdullah,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,940bf532ac37426796f6852dcb2d778401f18b4a,,0.00
+90940,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,d370a787acfac188e18083270cb820bf1235ddf3,,0.00
+90452,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,59950a3e0800dde0f1634d0ac8b9751f11fbcb49,,0.00
+91870,Sid Ghodke,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,c0accdbfee71b515e7b842ee25372abaf10f8d6b,,0.00
+91455,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,e3084819b437f40d0180eb85af7594ad39640d2d,,0.00
+90451,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,d3622a3532cb54c09d4acb59a3dbe6a0f37a86e4,,0.00
+90937,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,06681c21e886a97e39d277808780884151c00318,,0.00
+91867,ardakocmt-hub,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:36Z,Open,FALSE,vercel/next.js,a190c6fa405f4ab9809982470b69414373f1d40e,,0.00
+91454,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:37Z,Open,FALSE,vercel/next.js,d36f9c6a8b0e4258760287bed3d78fef0c287893,,0.00
+90450,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:37Z,Open,FALSE,vercel/next.js,efe66725ba36fc23ffdbaa0119d9b33cb473b138,,0.00
+91866,kocardkoc-cpu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:37Z,Open,FALSE,vercel/next.js,4cf154317a03baa43415f20c60b6d6735576eadc,,0.00
+90936,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:37Z,Open,FALSE,vercel/next.js,cfae5adcbbf24d868cde12e49000cedf9ec2cc6d,,0.00
+91452,naaa760,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:37Z,Open,FALSE,vercel/next.js,38b09b0664e96a12e9b3b0228096f2fc5151c872,,0.00
+90449,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:37Z,Open,FALSE,vercel/next.js,ac5a9b4822967e4e03da530d958d692dc62965ce,,0.00
+91865,devjiwonchoi,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:37Z,Open,FALSE,vercel/next.js,58d4406460cf2c42fd64ce91944546298474f29c,,0.00
+90934,Niklas Mischkulnig,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,1aa253215ade36f765894d98249327fe1c3c3963,,0.00
+91449,Swarnava Sengupta,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,0159cfc33d5545f5584280dc1f35f7e6c8b7f259,,0.00
+91859,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,e94b29b3bfff6fa4b854a73da766dd8544bd796b,,0.00
+90443,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,133cf4add56541eaedf37b94a6e76369363cd16c,,0.00
+91439,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,51e7bcb2be4c0c49dc759e735afc387d2f658d39,,0.00
+90933,Shu Ding,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,4a4b47eed5c5ef1e56d65aae189d00401f984d0c,,0.00
+91858,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,55e92024c0c9d70b5850c79d77061ff94aa3ce0f,,0.00
+90442,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,709d0dcdff988096f340d4985dbf0b75fb550e73,,0.00
+91438,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:38Z,Open,FALSE,vercel/next.js,ffeeb9bc864a6fca968ca122143e39014d04f68c,,0.00
+90928,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,cc6d3bab99caa76f95e6be549814ab4dd01a9f9f,,0.00
+91856,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,a68545ed2d057de91e73bd3c5a0170a1dce56325,,0.00
+90441,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,9156550ef920992cb1337291511147105be77b75,,0.00
+91437,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,36815f4f3c612171460b2f713bcf67f9604c2db4,,0.00
+90924,Michael Sverdlov,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,b486b4659882323643425fb9b62c5ad0863454c9,,0.00
+91855,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,7dfe28222a335fd688ab20b98ccba2e1a8de33e3,,0.00
+90435,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,c78f7dbf9106dfc52d057ba0ef2693c2fc1eded5,,0.00
+91430,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,d3b578db8f8e468565910ed0f0e7c0b4d7a2e8ce,,0.00
+90923,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:39Z,Open,FALSE,vercel/next.js,1eb9c03edfc961b9a3f9a752dca4c1e296ced74a,,0.00
+91854,Andrew Imm,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,778fc1de69cd02ff333a5415de1957237c8c3927,,0.00
+90430,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,54b40349fccea20565faf5efd72436d5002a02d5,,0.00
+91429,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,c778834d003aa7f0cb0e4a3d9e01530597f9b087,,0.00
+90920,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,dc6dd3a4b49da9a6843fed4ad7aedc2971aa80ba,,0.00
+91850,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,f0aa5867f8d80a952d74222d4ce3b4fe06cba74d,,0.00
+90428,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,eaa4c38d53de5dfc5e3a16fe0f969b7da078344d,,0.00
+91427,hammadxcm,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,d5ac4de14cdb51458c78254ed751367c353159b4,,0.00
+90919,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,2db4e7b7e88f49b4bbbc1982d2ab959ad16d9736,,0.00
+91849,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:40Z,Open,FALSE,vercel/next.js,4143e9a57006790544ac260170790a2463fda03e,,0.00
+90427,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,7460c2fba6c71eb0d603d4b40f5dd15891be08a8,,0.00
+91848,Jiwon Choi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,499be4737bea33a7a9e19a8f764c6676040780c0,,0.00
+90917,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,a996516de68ca9ca341151536be77b6b2abe06af,,0.00
+91426,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,ac1a59b559bb01eb920ecb3c97a2a65786b63fa7,,0.00
+90424,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,47f2f63f381954098eb50c423e5595978935f8c3,,0.00
+91847,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,2dd7fd062bcb74b9ca7bda7d697617940b0aa5e0,,0.00
+90916,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,599a807232d263d1c05b52993d98ddd4f1f8bae9,,0.00
+91425,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:41Z,Open,FALSE,vercel/next.js,6ea9c480909eb35ae2c7d7d971ba663394c533ad,,0.00
+90423,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,1e31ec06a0415282554c2dc7555fdf483a84e4d5,,0.00
+91846,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,15a54bb0fa6f6ac29f0177475f2e5715c5f812f1,,0.00
+90907,zoomdong,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,dd20d28f7370408215c96fd5f9f96e8f63dc8aa5,,0.00
+91424,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,d4014925f4b6318f1ac80066443cc614922b5b9c,,0.00
+90422,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,50efa89872fbaf582ad7d67886e70cfdca54ae16,,0.00
+91842,Jude Gao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,747ca9e429175a2de4f9198bcddb612382119716,,0.00
+91421,KOKKONDA NAVYA SREE,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,986974bd76ad4aceb16c9ca9a7cdb4b58ddeb824,,0.00
+90905,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,4660de3fe7ff974bfc4884cd3cfcbb03b911d70d,,0.00
+91841,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,1e662e7f9b93536b23ca26e12463ee7c6d9ce958,,0.00
+90420,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:42Z,Open,FALSE,vercel/next.js,0927924eaa5443cb43b5f39ac9cf138409eedeb8,,0.00
+90902,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,d88c2d90b03c91f8ae11870b053e03eb8f370ae8,,0.00
+91419,Denes Beck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,ca564ca8310643a425cba937c71e8e87486b672e,,0.00
+91840,Jude Gao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,3eb441dd041d5c7881cc2cd70a5b0d567fb9816f,,0.00
+90416,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,8ae61f8c52216cbc07ba68c80fea57b04df3cdff,,0.00
+91417,Abhiraj Marne,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,646c03d04d9bbd283487b333cccb38d77dd97004,,0.00
+90901,Tobias Koppers,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,84c68b0403ff6a4e675a2d0571f5eea47a980d1b,,0.00
+91416,Tim Neutkens,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,e89eaa5d43889106957cbabdcce6e7c620f44c1f,,0.00
+91839,Akos Horvath,300,StructuralSlop,FALSE,50,antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected,,0.0000,20,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,cdf92ad9aa7802e1bdb049de98639401675cd618,,0.00
+90413,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:43Z,Open,FALSE,vercel/next.js,f427717610ab9fcbf5e56458b5cdf1f6e029d9dc,,0.00
+91415,Tim Neutkens,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,5066bcdfbd82e0a7264b552a11fae4e4b0074908,,0.00
+90899,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,3e73cd1daac2e2049fc866f8c135d959c2d1f5b6,,0.00
+91835,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,02ca8089ba0a54e077c56354010f09e66f03be1a,,0.00
+90412,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,6a1bd1521b361094ae75059a187268abb3bc8ff8,,0.00
+91407,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,d18f7aee805d4b8d67665f7fa3a6e86d7b918024,,0.00
+90896,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,9b266a2e402ce9fa27ec9acdbbaa3e11e86532d9,,0.00
+91833,Beno George,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,bde77c08cfbded63bb1270000a94b134e91881c2,,0.00
+90408,puxiao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,122fe13f335e29bccaa21c5e3b0758e82e41647e,,0.00
+91405,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:44Z,Open,FALSE,vercel/next.js,6ce55839515c20b7b587ffb3ae004f774d5c265d,,0.00
+90894,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:45Z,Open,FALSE,vercel/next.js,d462e0f330de7b7396b11a459ba99b8a05edc74c,,0.00
+91832,Tobias Koppers,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:08:45Z,Open,FALSE,vercel/next.js,26bf3a147bcbc160e460e35137d03aef46b106f5,,0.00
+90400,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:45Z,Open,FALSE,vercel/next.js,63c78aaf5260738523fdee27d230c59d1586e334,,0.00
+91404,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:45Z,Open,FALSE,vercel/next.js,d786ad1e6b17593515bb3e77bd1c7953403c0ed5,,0.00
+90891,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:45Z,Open,FALSE,vercel/next.js,eef85cbfe8b914a16e75c032d202fdc363b822fa,,0.00
+91830,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:45Z,Open,FALSE,vercel/next.js,80691d43b035244e607764c4e37cd1a8dd877515,,0.00
+90399,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:45Z,Open,FALSE,vercel/next.js,483d62080e54deed31efe78c9f53fd3328196661,,0.00
+91402,Yoo_LCD,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:46Z,Open,FALSE,vercel/next.js,6b4753821a683a9e1cde3d8ef471e04a9268cb60,,0.00
+90890,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:46Z,Open,FALSE,vercel/next.js,ef8ae855710fd3608de90a8f8fad7c534405e1f2,,0.00
+91827,Jiwon Choi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:46Z,Open,FALSE,vercel/next.js,962a161828de243375770cd7434b861fc2ee91e1,,0.00
+90398,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:46Z,Open,FALSE,vercel/next.js,8bb3f7fa778839c2077e88407a783877b4d9a655,,0.00
+90888,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:46Z,Open,FALSE,vercel/next.js,fc11844506e24959fbc88df2a5029510ab4a8e0e,,0.00
+91397,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:46Z,Open,FALSE,vercel/next.js,99634fb54863cd2f91bdece9218dab1893bd02fe,,0.00
+91825,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:46Z,Open,FALSE,vercel/next.js,9d8f039942e5ece1e44ac3cae07d90fe097fe541,,0.00
+90887,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,05758b2886e595123e5de6ca9284899dabef3a48,,0.00
+91823,Rayan Salhab,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,d829f73d2895c048c5dddbd9aa81a22a89a0fd58,,0.00
+90397,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,e19727d23e8c60bda065cdde08a83d4dfabb9088,,0.00
+91394,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,e5c46ed44885f3726a53f055a578643207fb4def,,0.00
+90886,anthony-schanen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,512af5cc7cf38671ae3cb73bb15c53a253529f53,,0.00
+91812,Dmitrii Troitskii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,0a90b01054254aa297db4f6e0264441bd750d68d,,0.00
+90396,Jiwon Choi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,bf488d5220fa7e1070c53dd36ffddc5735185ac6,,0.00
+91391,Matt Mastracci,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:47Z,Open,FALSE,vercel/next.js,d41c087af7f64bc32da258b04a1245508e96299d,,0.00
+90883,Jude Gao,460,Critical,FALSE,0,architecture:zombie_dependency|security:ssrf_dynamic_url — `fetch()` called with a dynamically constructed URL (string concatenation or template literal); if any component is user-controlled this is an SSRF vector — validate and allowlist URL hosts — CISA KEV class (line=22)|security:ssrf_dynamic_url — `fetch()` called with a dynamically constructed URL (string concatenation or template literal); if any component is user-controlled this is an SSRF vector — validate and allowlist URL hosts — CISA KEV class (line=25)|architecture:version_silo — @testing-library/react|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — next|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — typescript,,0.2000,150,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,7f829743dc4590639419b8c9d403eae09cd737d7,,0.00
+90395,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,26b2e6948ab130345df97c9c8883174efad720a6,,0.00
+91810,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,8fe3b5e5989f7962bfbaf353c18cb93ec59d4612,,0.00
+91390,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,83b77fed3d8d3640757bdae303663443c567327e,,0.00
+90394,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,774607b3f0815ff8ef8bfaffc6f36ee79712b0e8,,0.00
+90881,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,faae1fbce49b944461d0ee8198dedd816bfff5a7,,0.00
+91809,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,18cffee3dd81a6f67fb2aec68cd182939ce0b366,,0.00
+91389,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:48Z,Open,FALSE,vercel/next.js,0fbf09464486ae87b261facb3e2888de3bd30a17,,0.00
+90878,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,321cdf0cb045c1e9ec917e7a9d43d54633999b5c,,0.00
+90391,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,34fb891bca0faa4003e70e7ba0eca59b2596aaed,,0.00
+91800,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,eee1c3dea96fa593be63a9b00cfffadbafca4a5d,,0.00
+91388,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,b6df8796d605f988c908c08b08083bf2fec2c935,,0.00
+90390,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,14b3cde47e112a65659d6349bca9774eca79dc5b,,0.00
+91799,Matt Mastracci,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,097c7c4c83f85c9d6d5ecd0e10bb9259de11f8ca,,0.00
+91387,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,0f5bbc47267056fb35799be598d0a44e1dca8fd0,,0.00
+90388,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:49Z,Open,FALSE,vercel/next.js,e40fa0b7ddb7f40e1edccf05f09c80e6ded5d6ac,,0.00
+91794,Tyson Cung,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:50Z,Open,FALSE,vercel/next.js,38b7c1aea977c455fe24bfc1561b7f13a8ae27bb,,0.00
+90387,Sebastian Sebbie Silbermann,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:50Z,Open,FALSE,vercel/next.js,7679113c5ff16f8cfa407a990328e39678044fab,,0.00
+91386,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:50Z,Open,FALSE,vercel/next.js,7f986e9b05cdbd16d74dcdb06153d26e45cc8501,,0.00
+91790,Luke Sandberg,55,StructuralSlop,FALSE,11,,,0.0000,20,2026-03-30T06:08:50Z,Open,FALSE,vercel/next.js,26e9a32bbfa233a6cfdd9e99c33c9a0c18e4f769,,0.00
+91385,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:50Z,Open,FALSE,vercel/next.js,79b9194901eabd86ea8fa46c76de50b31a7ccb5e,,0.00
+90386,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:50Z,Open,FALSE,vercel/next.js,5e5192cb535a6201ba024437568d8dbf3ea8432a,,0.00
+90876,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:08:50Z,Open,FALSE,vercel/next.js,c2c8dbe140bbdd2285967b131d5a26b916ca5989,,0.00
+91788,Matt Van Horn,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,fcc915b4eb2aa81c5698b4dcb0894ef2e741cd37,,0.00
+91384,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,2c047561dd7cf3e2d2335a057987868f2fef9d46,,0.00
+90384,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,d7e6695d45060c82375b100f72a5f938fce618f2,,0.00
+90875,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,5230c3a96f4d014aa80ee4af90ba9f1f59ce4931,,0.00
+91784,Luke,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,cc61e97bc535fca5d60f2107da960f732f95deff,,0.00
+91383,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,25e773a0de57f7bafe613a33db16431bc97c667a,,0.00
+90382,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,1d1f4f1128649d2ae33477652f89ab4a6cb5f4a9,,0.00
+90874,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:51Z,Open,FALSE,vercel/next.js,00e7fa0cadd61c25f7cae662aa80594b7e6fb0d8,,0.00
+91783,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,6428091b6606f13cb358b3996a6a304ea8f1d9cf,,0.00
+90380,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,90fe09563c0871a81f55af32b9162efe0fcfabde,,0.00
+91382,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,24be9ac0563ce3d757aa532f591e420ff9f81142,,0.00
+91381,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,e18810122f0aa9e5b31ee6beed624d3a9df4dfbf,,0.00
+90370,Vedant Madane,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,bbdd34381d0a41f5a183f354c9f469ed3650f64f,,0.00
+91782,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,eaed27f3ec0a5be801e8c0e55593118f13147bc8,,0.00
+90869,Matt Mastracci,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,a128032d1c3f0cf9692fc6e1a07fc8d2aa9e2282,,0.00
+91781,wdsmini,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,b9379e73e7f456a16e9055133266b5a51d64803e,,0.00
+90363,Bastien Dumont,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,e1f9efc014f6611bcf08453f3339736fed826682,,0.00
+91380,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:52Z,Open,FALSE,vercel/next.js,b1eaf54645f09ced49d03b9c5612df595b330486,,0.00
+90868,Matt Mastracci,50,Necrotic,FALSE,10,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,c69cd7f3c1227018772a2702b1a40aba10d4735d,,0.00
+91379,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,fd3a0da8805f3168161200fa176e31b766fbd722,,0.00
+90361,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,c661503733fddcec7c7a6d6d80b94ab3429c9691,,0.00
+91777,Ben Gubler,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,1cb2cc9d5d94c7039bc14f5a1a85d62dd512757a,,0.00
+90866,Aurora Scharff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,56a647f3769eefaae7e7c2a75b6835f27eeb932b,,0.00
+91775,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,e46ea6e72005a930f635ba7bb19df2103eb0b09f,,0.00
+90360,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,ae687fee83d77053edfc444a9171b7486601cf73,,0.00
+91377,Luke Sandberg,560,Necrotic,FALSE,16,architecture:zombie_dependency|architecture:version_silo — cranelift-bforest (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-bitset (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-codegen (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-codegen-meta (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-codegen-shared (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-control (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-entity (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-frontend (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-isle (v0.110.2 vs v0.116.1)|architecture:version_silo — regalloc2 (v0.11.2 vs v0.9.3)|architecture:version_silo — swc_common (v18.0.1 vs v19.0.0)|architecture:version_silo — swc_core (v57.0.0 vs v58.0.4)|architecture:version_silo — swc_ecma_ast (v20.0.1 vs v21.0.0)|architecture:version_silo — swc_ecma_codegen (v23.0.0 vs v24.0.0)|architecture:version_silo — swc_ecma_parser (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_base (v37.0.0 vs v38.0.0)|architecture:version_silo — swc_ecma_utils (v26.0.1 vs v27.0.0)|architecture:version_silo — swc_ecma_visit (v20.0.0 vs v21.0.0)|architecture:version_silo — swc_error_reporters (v20.0.0 vs v21.0.0)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — target-lexicon (v0.12.16 vs v0.13.5)|architecture:version_silo — testing (v19.0.0 vs v20.0.0)|architecture:version_silo — wast (v235.0.0 vs v35.0.2)|architecture:version_silo — wit-parser (v0.221.3 vs v0.244.0),,0.2000,20,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,2fbb3893933669c7097e8112cbb3d993dcc149b9,,0.00
+90858,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:53Z,Open,FALSE,vercel/next.js,7b4b2114da071b9a04c6499728ccb258dc521531,,0.00
+91773,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:54Z,Open,FALSE,vercel/next.js,60cddbb3e4a34f2c05d44d82181abed89006d9a3,,0.00
+90359,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:54Z,Open,FALSE,vercel/next.js,5089a714375ec3647dd7439dc99ef148c646bcd5,,0.00
+90857,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:54Z,Open,FALSE,vercel/next.js,323cd2db83fd4c0c9fab24de27fd2e0845f2fef4,,0.00
+91376,xusd320,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:54Z,Open,FALSE,vercel/next.js,b3f8c854a7745763cec70a250cede2246f7dca42,,0.00
+91769,lilianakatrina684-a11y,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:54Z,Open,FALSE,vercel/next.js,7198efbbb6bb7558a7af41815200195a4cd5f095,,0.00
+90350,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:55Z,Open,FALSE,vercel/next.js,cf6bf3fc618f7131b80820587a54bec82c954ab8,,0.00
+90851,Neha Prasad,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:55Z,Open,FALSE,vercel/next.js,a553cce1159c3165588a97f07ae362a1e8d50b82,,0.00
+91367,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:55Z,Open,FALSE,vercel/next.js,9c4baf01da7367730e21477c9f9fd547fa445d15,,0.00
+91767,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:55Z,Open,FALSE,vercel/next.js,a7dff59d7af88bd6816ec4d2b06651638897480c,,0.00
+90346,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:55Z,Open,FALSE,vercel/next.js,a3d4405c00eac5b1339a604fb19cc9a73af4f60a,,0.00
+91365,Neha Prasad,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:55Z,Open,FALSE,vercel/next.js,4c62cdd2448487bf90cf67838211983ee6c8b71e,,0.00
+90850,Ben Salmon,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:55Z,Open,FALSE,vercel/next.js,4804a54adf7e6c37119853ee53e0dc994caf0dbc,,0.00
+91762,okxint,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,e7915f2c48406c27eccc72125f39ab1cb66fe385,,0.00
+91364,aleewains,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,2626339c7a245a5f9a397ba1b36d36fcf5ede321,,0.00
+90345,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,837a44a852beaa86c6d21fae7df7d81db2202f12,,0.00
+90847,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,903370e869b6b1252e6ffbc33d8740bd3dababf4,,0.00
+91760,Markus Gritsch,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,937057869341bf454ed4937b912b42c5e8a97f4f,,0.00
+90846,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,2cb6a3d1fc5648f02bfc4213fe0bb3a81555a8d6,,0.00
+91357,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,c690fda478dbc634fddd79c765880f62ba62e75f,,0.00
+90344,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:56Z,Open,FALSE,vercel/next.js,28864340d63f869b918b3b14e91014a091df0f5c,,0.00
+91757,Andrii Furmanets,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,93bb32bd4bd8f363455ef659a26a673207698969,,0.00
+90845,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,b849facaeb291c759eaa78087da5235081e2664a,,0.00
+91356,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,90f54b1d206518b79e88ed4f87253856ae42507b,,0.00
+90343,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,56937f297bf1738cb211f54ff873aa2de54d518a,,0.00
+91756,imankazievakeremet-web,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,45d1124bac54b91f470bd44ec9e265e1776204e5,,0.00
+91353,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,065fe104f44a9c0c22ce240b0b42acf7d08b9eed,,0.00
+90844,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,0b835fb3f174b9a70449e4577950675aacb61ae7,,0.00
+90342,youngsyre26,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,d240fb82baacce92e0b63fa3e32300e1bf499757,,0.00
+91755,naaa760,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:57Z,Open,FALSE,vercel/next.js,bf7c1c76f0471229d7c17083ad4714a9ecaff288,,0.00
+90843,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,a90c270dcefa7e64769f49c327b91d979110c1dd,,0.00
+90329,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,1fa275ab206906822c8726b3446568d98c0b0db9,,0.00
+91350,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,b2d08ad797823fbc8494fd8d8a6b7b12baf63269,,0.00
+91754,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,3b04b41e871fb3fbb3da46b1d3aa5d170569b55f,,0.00
+91349,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,9b32f39b2d14bd3634bcfa40aad4485b3e00f186,,0.00
+90841,Will Binns-Smith,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,243db08de531ddbf8efeb54fd4eddbfe544c727e,,0.00
+90324,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,9b6a984cc7e93d2f0a2d46bf78900c78d74f23d0,,0.00
+91753,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:58Z,Open,FALSE,vercel/next.js,e8d0a397370e4a7d364edf8c0172140d28561b6c,,0.00
+91348,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,96fc02e7e9b09ae956349dea9b0050f7fb6eba2f,,0.00
+90840,Jiachi Liu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,3ecd395e6ef8cb8a3fc543f620662205451176e0,,0.00
+91746,Vinson6688-lee,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,d52a28665eba9bdae3c63f3d5d84dba21a870f4b,,0.00
+90323,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,3d0e6ce83ec65873b1071221f6be4be19ab7e783,,0.00
+91347,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,d1f745a2847bbfa72aaa6264f4d73955f8e20765,,0.00
+90839,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,cf2987099cf8725caaf2987f47adc6fb95e43bd3,,0.00
+91745,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,b260742a9ca5f69e82f9dd46e343a8af2c3f7778,,0.00
+90322,Poria,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:08:59Z,Open,FALSE,vercel/next.js,213b0077b4c66c0fd60431d22484becf8976f72b,,0.00
+91346,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,0b7818ce5ff29ca32589c61675c0e2cb43cae70e,,0.00
+90836,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,3a821c949e89b8178d74dfdb255dc42f10df05d4,,0.00
+91744,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,0cca842a83c197c5b54208e15852d93758b10ded,,0.00
+90319,Ali Hamza,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,54cd03c7710a40182f39ba20bdb1a30fc5370294,,0.00
+91345,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,1f1a18a82ff7a2602f4eb71c1fa772ca4ae562c1,,0.00
+90832,Jiachi Liu,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,0ab3c52dcf874617849ae89ce90a3046a834195d,,0.00
+90318,Ali Hamza,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,176b4c24e4981e28ff295e7ba53a56ec7639fc63,,0.00
+91743,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:00Z,Open,FALSE,vercel/next.js,600cd2fedbd78943a856ce2ddefac0baee29346c,,0.00
+91343,Matt Mastracci,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:01Z,Open,FALSE,vercel/next.js,09b8167f38f1007a2c8d493ba198559a5c763c48,,0.00
+90828,tiwari91,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:01Z,Open,FALSE,vercel/next.js,be41f0405881925962cd4512347e6d752d9bb7ca,,0.00
+90317,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:01Z,Open,FALSE,vercel/next.js,69b99cba70773ad2179959d556400ad5b397c8d0,,0.00
+91742,Tobias Koppers,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:01Z,Open,FALSE,vercel/next.js,da9382b4ebde74904edc143f6f53deb134a4d0a0,,0.00
+90316,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:01Z,Open,FALSE,vercel/next.js,24302db2f42b59bc11d697782a16a5a14eec0eab,,0.00
+91741,Kristian,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:01Z,Open,FALSE,vercel/next.js,32f3e4049692489438872724d00bd9fae6086eaf,,0.00
+91341,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:01Z,Open,FALSE,vercel/next.js,69f42c838a6a988995be5dd658a8be54034f271e,,0.00
+90315,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:02Z,Open,FALSE,vercel/next.js,a0b23a69f7d36f6e96635388abaae3bfba356110,,0.00
+91737,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:02Z,Open,FALSE,vercel/next.js,d87720902b7b6d0ed5293908dd6dd47b2908b9cd,,0.00
+91340,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:02Z,Open,FALSE,vercel/next.js,84976f51c2d6c8d2f502e787417b93204cf53464,,0.00
+91736,Dmitrii Troitskii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:02Z,Open,FALSE,vercel/next.js,57ee9241df3048a9eee551a1e0236d3d3d81473b,,0.00
+90314,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:02Z,Open,FALSE,vercel/next.js,68250009fc186ea8175fff98e3279cb1fdd752fa,,0.00
+91734,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:02Z,Open,FALSE,vercel/next.js,6e9e75fb32fd7df4624c98f9a0e91e0847d3c1aa,,0.00
+90312,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,72ff917268cb7c52445adc3571310ff2d59758ae,,0.00
+90827,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,53e3102d9b4f25456a780b32264fd48db752281a,,0.00
+91733,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,be4475e3c6bf11f0affcc4d68d8af1a73b7c8d57,,0.00
+90310,Cursor Agent,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,7e76599be661414b49b9d3bfa13d143c6926948e,,0.00
+90821,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,0773150f967e2aebfb045cc9a8e99e4b4eb0dd83,,0.00
+91732,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,f11cfde4ef6dd8a1307a5f39b82f7bffd5016c40,,0.00
+91339,Benjamin Woodruff,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,ca38efce4cdb4262d3faaf1a9933f81a5bb5947d,,0.00
+90306,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:03Z,Open,FALSE,vercel/next.js,cfc45ebd6cc948b8db06032ecd2e871ad9043e1a,,0.00
+90820,Daniel Calvo,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:04Z,Open,FALSE,vercel/next.js,462a40af17ea1a108dc40d4b03a57e7038adf28c,,0.00
+90305,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:04Z,Open,FALSE,vercel/next.js,8e9f6505772111e1f91c88c2f972c7c4684537cd,,0.00
+91338,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:04Z,Open,FALSE,vercel/next.js,6e248841177166a38f7690978f0aeddb28dab234,,0.00
+90819,Niklas Mischkulnig,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:04Z,Open,FALSE,vercel/next.js,d25b7742616e26c73112bda935c552d160275394,,0.00
+90304,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:04Z,Open,FALSE,vercel/next.js,495261fb5671111512936cdde6ecc6f2093d9058,,0.00
+91336,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,d6265836920aa5d4ed071447eab3eaca73752cd5,,0.00
+90817,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,d3593c614116a0777af0f4692efd43bfdcdecfea,,0.00
+90301,Stanislav (Stanley) Modrak,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,e9c49469743e3b928bf60e7c48df184b8cde2420,,0.00
+90814,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,1bd1793bfd03664841fb178458a8066269beb0ec,,0.00
+91335,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,77ececa546313e2428aca15b496395b39166c61c,,0.00
+90297,rohan436,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,c970edfd2bdd7e3db0fee7da611c8753ef9a1290,,0.00
+90813,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,e4c9d544fd1fb258f4b37d28ec3ac45c1d503e6c,,0.00
+91731,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:09:05Z,Open,FALSE,vercel/next.js,bdaa227b74a65283f5dc9a2e167566c8e0540e53,,0.00
+91334,Joseph,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,4fcd155118c9b00b1fe61b332c22b4a0808f807a,,0.00
+90296,Travis Zhang,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,f65aacd3a4a2f9704aeae93265d3257624dd1907,,0.00
+90812,Dmitrii Troitskii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,64cff27b315e1d54a447bcfaa500af40746a0dc8,,0.00
+91730,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,4aa1da9d6aac984e879d65ddc72426eef1bee0b1,,0.00
+91331,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,063f0925420f49fdff1a74f1b2915ce64cd7aaf1,,0.00
+90809,oopsio,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,182f51b5373d98494a66d4c0d6ca55ed7a026365,,0.00
+90292,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,3fee8ca6415675411cc3fe73003117d41c3ec456,,0.00
+91329,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:06Z,Open,FALSE,vercel/next.js,16c8c52f354a613bece2f326f9df367b57b905f0,,0.00
+90290,Abhisar Mehta,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,e606d83bcb8faeb34fd3b92cc5aa22270ffb059e,,0.00
+90806,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,6d4e24caf5390611727c742af19c8ba1bbf5929f,,0.00
+91729,Luke Sandberg,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,bbb97c02fe1736f82c4959eab4bba8663045b776,,0.00
+91328,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,c0458a743aaaa5fdcc30e835f2a7c3f8a90ee4d7,,0.00
+90805,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,6f8b4dccf1a7985e89fb2a8428ac6f8700130c8c,,0.00
+90289,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,be35da3f57d6022e89bdf8d73c32f4fe6d7c57dd,,0.00
+91727,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,1f7c642eca4aa4b84c1d9c4736654bc635391eee,,0.00
+91327,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:07Z,Open,FALSE,vercel/next.js,70c87b3769f2f31dd1ac4b8a6df4967a6f21b8c3,,0.00
+90804,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,fec6d5370c2f75ee15e4e41e9d0b51787a2193a6,,0.00
+90288,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,eafb9db968fc61415fefe8a5943a74e173eda00e,,0.00
+91326,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,93f041cba240b10022567822d320babb6fb94423,,0.00
+91725,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,60f4afd00d306ee9de7e573a68923f275909cb36,,0.00
+90287,Nazar Koval,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,47bf657105637e302861364c5753abd3d53bfba5,,0.00
+90801,Tobias Koppers,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,b8fd121fc1e046e18be1ab20dd39b9048a8f9a71,,0.00
+91721,instantraaamen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,f7104943bc0f1fc5d38a9eed4a7448d764134fc7,,0.00
+90284,loganionian,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:08Z,Open,FALSE,vercel/next.js,e5353541d184db3da1f4bd511857a2e2afae9aa8,,0.00
+90800,Jiwon Choi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:09Z,Open,FALSE,vercel/next.js,ab6671489f961c885fd9a0da12ca6b1d94b4203c,,0.00
+91719,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:09Z,Open,FALSE,vercel/next.js,c0694d5b0c32b6741042209873519dc199477dfa,,0.00
+90283,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:09Z,Open,FALSE,vercel/next.js,2797bc2e43c0cbb9b7184b64b9905b9ea8967d50,,0.00
+90282,loganionian,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:09Z,Open,FALSE,vercel/next.js,26c6916fe26dd55ad56bbb9f5bb45926ced3e40a,,0.00
+91715,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:09Z,Open,FALSE,vercel/next.js,c5ffc001f086866edeb2ee4a3a9ea17f04fe9720,,0.00
+90797,Matt Mastracci,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:09Z,Open,FALSE,vercel/next.js,591b3399705929fc6857b0cc5b50cb18500c2a3e,,0.00
+90280,tyrelllewisrcc-arch,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:10Z,Open,FALSE,vercel/next.js,b6eff089075c8b70a41e3bce006971d3749b9b9e,,0.00
+91714,JARDEL ALVES,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:10Z,Open,FALSE,vercel/next.js,87763791bd536ee09ba0f8e0b0f0a9aa2b19dc2a,,0.00
+90796,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:10Z,Open,FALSE,vercel/next.js,f289f83b3cf8d1416172010914745c73027eb192,,0.00
+91324,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:09:10Z,Open,FALSE,vercel/next.js,ae9bb2d80e3966d966045fc2bcc113dcb5987126,,0.00
+91713,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:10Z,Open,FALSE,vercel/next.js,60dcd3671b404bfb9dc26e2b1513129b3b6f2f2a,,0.00
+90794,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:10Z,Open,FALSE,vercel/next.js,0cc17e147e73d5fba922ad91ba1bdfb424c83d8a,,0.00
+91320,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:10Z,Open,FALSE,vercel/next.js,2a76fcf9e70f53953ee791de7b8915f2adc8ccb8,,0.00
+91711,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:11Z,Open,FALSE,vercel/next.js,62c15cb91a279d5540466679366ba8f1e0a1489f,,0.00
+90793,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:11Z,Open,FALSE,vercel/next.js,dd91561159a584217e6a5d91c53be5a14bd87daa,,0.00
+91319,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:11Z,Open,FALSE,vercel/next.js,dd294516b7b9e4c96881b6fce0c91792a187ee16,,0.00
+91710,naaa760,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:11Z,Open,FALSE,vercel/next.js,723b2970fd239ad4a7e7ee91f075aca54157482f,,0.00
+90792,Benjamin Woodruff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:11Z,Open,FALSE,vercel/next.js,5340daf6bdc93bf34dd80e7ff7a13c83b6f2f230,,0.00
+91318,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:11Z,Open,FALSE,vercel/next.js,c91931435993ff70c4c93674eac673d257c63521,,0.00
+90279,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:09:11Z,Open,FALSE,vercel/next.js,d196705134a116a4a04b4990f4d4b145c0c6d9a7,,0.00
+90790,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,565515827f0828f47cdceee2a2f6252b333bde5e,,0.00
+91709,THE FALCON,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,398539b9be5a33b712f183c6af0e09e4bcb96835,,0.00
+90277,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,db3032fa0c65f2ba90bbb84ed19a19eac56276da,,0.00
+91317,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,61e86c153197b391b30fd4a559941c8c3b773ca5,,0.00
+91707,Dmitrii Troitskii,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,ae0ad3b5aa35ecb3db0a95e50865e9027433f0ab,,0.00
+90788,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,21f38c2ee0a95acd4cc4f9fa15bb80ee7143bc1d,,0.00
+90276,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,dd1ff46a36faf109b759f895cf7f2c2fd63bfff1,,0.00
+91705,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,911a81d7f1ea77d3b564ea9757822a4d8c0452b3,,0.00
+91316,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,1b4edf1c1b95b4b19a4b5f0831bde1cf9614ede0,,0.00
+90787,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:12Z,Open,FALSE,vercel/next.js,ebfe0a43d9a2fe623614008f1a1aef6560593dc1,,0.00
+90275,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,3a08667781e28e869b8fea988dee51d5cbf3c8b9,,0.00
+91704,Mateusz Janota,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,93e18038eb62ea3650ddf956f28ed1b6b85acd11,,0.00
+90785,Evandro,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,6dc1ae8f5f6414c4697a4abe8f8e175420854817,,0.00
+91314,Tobias Koppers,10,StructuralSlop,FALSE,2,,,0.0000,20,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,2aefb803c6867acf51a0b929d4982bd65b38dd15,,0.00
+90274,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,cf55ff0a6bb3762eb48ef61d338142c4b3592a93,,0.00
+91701,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,655dbdb9b340ef5cc49ad11d9d240f3ab33fce22,,0.00
+90781,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,6bde44a4276c3d4823aaae41d65a0a7e56bf6ba7,,0.00
+91311,Shehab Sherif,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:13Z,Open,FALSE,vercel/next.js,ebdfb71121b401c526f6fd261fb25fdfbb74a0b6,,0.00
+90273,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,03b0da66f084fe80880c1ee6afd8debb1e3f33db,,0.00
+91700,François Best,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,6104ea2f2008396da081546d8da26755501546d0,,0.00
+91308,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,d6ef9fb8b6e2e2caf8be397d0d39e7603523e62b,,0.00
+90779,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,8e0c6d827955ee712390d7776f3253b1e91baaf7,,0.00
+90272,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,6191bd99573ad7aa6072ea26abbaffd5bb4aa97f,,0.00
+91699,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,d996581648311ad34b00c7e5a0ed5a69fff9a016,,0.00
+91306,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,4e87c782e581e24bc88c7a13db553af140c008cd,,0.00
+90269,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:14Z,Open,FALSE,vercel/next.js,a81ecd38f8b95093be30ad8bd21463514c168e9d,,0.00
+91698,Abhishek Mardiya,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:15Z,Open,FALSE,vercel/next.js,c7d5e5f37dc98947e7e4e53ae06ec160d8527f34,,0.00
+91305,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:15Z,Open,FALSE,vercel/next.js,6ab67004610d70b720d9fd858eca8583d4ae9ff3,,0.00
+90268,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:15Z,Open,FALSE,vercel/next.js,f9315472c89c3a108c1b9a4ca1d341be12a97190,,0.00
+91697,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:15Z,Open,FALSE,vercel/next.js,f75207e44700bef0db75c10f44d4ff3bab5ee436,,0.00
+90265,ี Github,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:15Z,Open,FALSE,vercel/next.js,89abc5ffbb5a67480238e669f087c8da4e4f0282,,0.00
+91304,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:15Z,Open,FALSE,vercel/next.js,40c5e79a6f2cacec7c7ed0210df95dea3ca6503e,,0.00
+91696,이주훈,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:16Z,Open,FALSE,vercel/next.js,3a826005f7a3e5203dc03bb4ad52c6000b98a0cd,,0.00
+91302,frahidipolice-ux,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:16Z,Open,FALSE,vercel/next.js,52f9dd39676a4076a1f9916c06163884c4ea97eb,,0.00
+91695,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:16Z,Open,FALSE,vercel/next.js,ea5b0e1cc88e1cc5f1e546e34722b17d73a2e0b1,,0.00
+91301,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:16Z,Open,FALSE,vercel/next.js,8e2b3d288e6b28bdca13a25c52159b7b37eea623,,0.00
+91694,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:17Z,Open,FALSE,vercel/next.js,cadea20ed75dc2dbc74ce1192c446b94668f4baa,,0.00
+91300,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:17Z,Open,FALSE,vercel/next.js,27fe70220973a09578bb0e98f6e103914d7be761,,0.00
+90263,Luke Sandberg,280,Necrotic,FALSE,4,architecture:zombie_dependency|architecture:version_silo — @next/env|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cross-spawn|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — semver,,0.2000,20,2026-03-30T06:09:17Z,Open,FALSE,vercel/next.js,f152405016e9c350d0ceb1153fefeef1c31d80ae,,0.00
+91293,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:17Z,Open,FALSE,vercel/next.js,2a6cee386f32b0fc1bc417ca48127a6ad9cb7139,,0.00
+91693,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:17Z,Open,FALSE,vercel/next.js,679e91f4ca3af482f2d6043cd2cb826689c915e8,,0.00
+90261,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:17Z,Open,FALSE,vercel/next.js,04907fbc9fc1209980ed943ae13a6ce3f4753683,,0.00
+91290,Jude Gao,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:17Z,Open,FALSE,vercel/next.js,bcadd5402f99ff031bbb16349eeac926fe9bd58d,,0.00
+91688,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:18Z,Open,FALSE,vercel/next.js,5b6585e4bc5a3870be49de59b71763b3f439a8e7,,0.00
+90259,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:18Z,Open,FALSE,vercel/next.js,b6962273f98f34e61f200315dfcd167c523ae38d,,0.00
+91687,Tay,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:18Z,Open,FALSE,vercel/next.js,8103de0839fb9ca5085fd9fad97ab4804c8572e3,,0.00
+91289,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:18Z,Open,FALSE,vercel/next.js,4da9708f60be65ea08c264c87cdefb37864c68bc,,0.00
+90257,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:18Z,Open,FALSE,vercel/next.js,8d9d1875456949edddd9eaababd09335870e2356,,0.00
+91686,rishishanbhag,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:19Z,Open,FALSE,vercel/next.js,23387ca67c2b28cbcb23c4970d6526687df04efe,,0.00
+91286,Ian Macartney,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:19Z,Open,FALSE,vercel/next.js,f30697409e71873184ad030ba7322e021b462190,,0.00
+90256,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:19Z,Open,FALSE,vercel/next.js,817109d5415ed16d52f70b089061cb06b7b3103c,,0.00
+91680,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:19Z,Open,FALSE,vercel/next.js,ef4154c8fa1b8397e2523df396ab17c27fd69510,,0.00
+90254,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:19Z,Open,FALSE,vercel/next.js,50b6c21e62978c7380f78b54b3e2dbf2ee3a7804,,0.00
+91677,Lucas Raschek,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:19Z,Open,FALSE,vercel/next.js,7fdad7469a150ff10fec7f14e93537e2f446552e,,0.00
+91284,Luke Sandberg,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:19Z,Open,FALSE,vercel/next.js,bdb8e1a55a76f6d8f5a885aa00d6442d50f5fded,,0.00
+90253,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:20Z,Open,FALSE,vercel/next.js,98118c729fbb778e802140c322df6663618ddd02,,0.00
+91675,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:20Z,Open,FALSE,vercel/next.js,29aaf707c19bfd22c7927b8b7706a59c6b022a52,,0.00
+91279,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:20Z,Open,FALSE,vercel/next.js,a2bb760159b4e10a1b506463ce89e13bc2bf91ce,,0.00
+90251,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:20Z,Open,FALSE,vercel/next.js,d250ad79c75605bc5aeb1f2ab98eb976067a704a,,0.00
+90778,Cursor Agent,130,Critical,FALSE,0,architecture:zombie_dependency|security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=561) (x2)|antipattern:ncd_anomaly (x3),,0.2000,150,2026-03-30T06:09:20Z,Open,FALSE,vercel/next.js,7a37da7661a99b7f65eef57b8a468cd09ac3652e,,0.00
+91674,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:20Z,Open,FALSE,vercel/next.js,8371e75116da6c3b3e66255137486b1209b6ba72,,0.00
+91278,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,f1eb8a90d52770997abb6a71f738a8d2994d5413,,0.00
+90249,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,008a4da7cd60cfb917f6d82f09eb4463a669472d,,0.00
+91673,naaa760,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,4a505dc49696188f133fd399c8a9c8cd1cea179f,,0.00
+91277,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,044133401e68ba850d6edbd2b0ac7e9371fe6ca5,,0.00
+90246,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,177e03bd37348524b2bfa20822bfe8a878d962e2,,0.00
+91670,naaa760,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,a3d5eda7312af73354393e4d18af87fb77759787,,0.00
+90774,Tobias Koppers,40,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — cpufeatures (v0.2.9 vs v0.3.0)|architecture:version_silo — wasm-encoder (v0.235.0 vs v0.244.0),,0.2000,20,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,cac00052c17115b9d036828db39ed5b95fa61b88,,0.00
+91273,Vy Nguyen,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,78dc4e046696cc47d153f47719753a74f020b5e9,,0.00
+91669,Neha Prasad,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:21Z,Open,FALSE,vercel/next.js,2c849f5b7a3954b1527a274f7e54a8967eb896c2,,0.00
+90238,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:22Z,Open,FALSE,vercel/next.js,a48039a27f5fed096e30a380bfc02cc02a084603,,0.00
+90773,Tobias Koppers,5,StructuralSlop,FALSE,1,,,0.0000,20,2026-03-30T06:09:22Z,Open,FALSE,vercel/next.js,a2c29645187fb1d722c057a78915826d36a47fe5,,0.00
+90237,Benjamin Staneck,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:22Z,Open,FALSE,vercel/next.js,5a6fa7919c9940d4200bbacbceba7135ad15ba60,,0.00
+91666,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:22Z,Open,FALSE,vercel/next.js,6c2647aac0bae46f0e13ce78da99c01eddc9e073,,0.00
+90772,Kevin,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:22Z,Open,FALSE,vercel/next.js,5a0cc92e0599ebc9ba6d65a745563714d0411b75,,0.00
+91665,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:22Z,Open,FALSE,vercel/next.js,fced130f7d629b03dc5005378b5ecd4cd09b83bf,,0.00
+90236,Developer,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:22Z,Open,FALSE,vercel/next.js,44f1276ef220bcfb00bb07751ced3087c04fe541,,0.00
+90771,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:23Z,Open,FALSE,vercel/next.js,a2861e11b3d52ed3a9027eb7d16c0dddd1e26975,,0.00
+91664,Tim Neutkens,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:23Z,Open,FALSE,vercel/next.js,c668a2aaba6a62a9f651b0d68e479b5effa3b0c6,,0.00
+90770,Shuudy,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:23Z,Open,FALSE,vercel/next.js,14464e69b64da63f96ecd607007a3bdd307cfa64,,0.00
+90235,Niklas Mischkulnig,15,Necrotic,FALSE,3,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:23Z,Open,FALSE,vercel/next.js,2a7661bd6ed73b8350cdbbc7090069ce41acb24b,,0.00
+90769,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:24Z,Open,FALSE,vercel/next.js,c5a4255cc2a01ba34c39af65dab0f770661d4c10,,0.00
+90234,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:24Z,Open,FALSE,vercel/next.js,3f492b90271fd2ade40a6ce5b5a60e73bc304cb0,,0.00
+90763,Sebastian Sebbie Silbermann,260,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @next/env|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cross-spawn|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — semver,,0.2000,20,2026-03-30T06:09:24Z,Open,FALSE,vercel/next.js,9e60c9be78169263c9fe97f620ce657051f3f8aa,,0.00
+91272,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:09:24Z,Open,FALSE,vercel/next.js,0e19f81d112e2abcac17828ae76bbf6603852e1e,,0.00
+90762,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:24Z,Open,FALSE,vercel/next.js,09974ae77362416c1328b8b57957f7e5ac2f905c,,0.00
+90229,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:25Z,Open,FALSE,vercel/next.js,353992c9fa3c69e8986a0f6e14ec3b4726830f74,,0.00
+91271,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:25Z,Open,FALSE,vercel/next.js,17f8fd62850e42105ac46e1afabf2ebf88214790,,0.00
+90227,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:25Z,Open,FALSE,vercel/next.js,1dc62163e1527e4aac113f4eee7b3a63a9cdb5f1,,0.00
+91269,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:25Z,Open,FALSE,vercel/next.js,e9d508acea58286c56f81d41ca98e7182ca3f365,,0.00
+90758,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:25Z,Open,FALSE,vercel/next.js,2bc712c0f46b9b5fb9257b3d9a0409b45a2f03fe,,0.00
+90226,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,de536e636db129320af8bd2ee12db9b9251d6a71,,0.00
+91268,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,da53ee261c0c426cd47bfd1e8fd162385965f97b,,0.00
+90756,Niklas Mischkulnig,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,647cce4e946ca9593212c74ba3ef17c267d58d6a,,0.00
+90224,Weixie Cui,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,08a2ed80eed2dc892c591b97e08c21c7f520f83d,,0.00
+91266,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,c3ffec5650d4b3bbc994a89a2a0f7ddd17736c59,,0.00
+91660,Zack Tanner,990,Necrotic,FALSE,6,architecture:zombie_dependency|architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/debug|architecture:version_silo — @types/glob|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — @types/tar|architecture:version_silo — @typescript-eslint/eslint-plugin|architecture:version_silo — @typescript-eslint/parser|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — async-sema|architecture:version_silo — browserslist|architecture:version_silo — cheerio|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — core-js|architecture:version_silo — cross-spawn|architecture:version_silo — debug|architecture:version_silo — eslint|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — express|architecture:version_silo — fast-glob|architecture:version_silo — firebase|architecture:version_silo — glob|architecture:version_silo — isomorphic-unfetch|architecture:version_silo — jest|architecture:version_silo — nanoid|architecture:version_silo — neo-async|architecture:version_silo — next|architecture:version_silo — prettier|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — typescript|architecture:version_silo — webpack|architecture:version_silo — webpack-bundle-analyzer,,0.2000,20,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,6abb5893fe65624dd302baa759c840bb991a78f8,,0.00
+90223,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,0d1cec2349f3baa390c14fcf714bece99ba157b9,,0.00
+90755,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:26Z,Open,FALSE,vercel/next.js,875b54bcf2ee860aae067144e4100ee8d17d31bf,,0.00
+91263,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,d47d474d81a17b2f43e4266e85d1c69a93568a4b,,0.00
+91657,Tobias Koppers,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,110d762ad2bd8a5bc3b7e881721ff7633eb789a1,,0.00
+90222,Andrew Clark,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,e6982ab73cf7edef4e9212ae837b09f52b5a263e,,0.00
+90754,Tobias Koppers,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,a4ca40bbc0c2b38c11fdb7ff7167f4993a1a9a19,,0.00
+91262,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,2ed7036e19173e76c481a688c99e3cad9cec20c8,,0.00
+91656,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,e1ea96b0e0b6193331fac061ba2d59c901e7d4bb,,0.00
+90217,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,f3b3913c98e2cd7d3894d02066d2e701228d1254,,0.00
+91261,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,fee5f7be93b4d44c71bc5ef889384763a9f8e40c,,0.00
+90751,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:27Z,Open,FALSE,vercel/next.js,077196655cff6bc0b343d2555d8c9c33d6a8e805,,0.00
+90215,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,e858c0bc5ef0890872d6219b2ad8d2ef84da2818,,0.00
+90750,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,f60b51fb72203e128bdd5afd807a31bea63cfc03,,0.00
+91258,Tobias Koppers,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,4ca13b952ddfe116c3adf304bea0eab3c73a905e,,0.00
+90214,Janka Uryga,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,8ba27bc11f5bb962cc35741624e73102286a274f,,0.00
+90741,04cb,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,97ce1750f3e2becf873652f55181cf61695d4cad,,0.00
+91651,Niklas Mischkulnig,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,e730cd5ace13d8b71e442954d82f8bbd107bc23b,,0.00
+91257,Sebastian Sebbie Silbermann,600,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @tailwindcss/postcss|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cheerio|architecture:version_silo — cross-env|architecture:version_silo — cross-spawn|architecture:version_silo — eslint-config-next|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — next|architecture:version_silo — postcss|architecture:version_silo — prettier|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — semver|architecture:version_silo — tailwindcss|architecture:version_silo — typescript-eslint,,0.2000,20,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,ca17fff2cead1eae0bf2a6809bf33dc47e48dd56,,0.00
+91650,Hendrik Liebau,0,Necrotic,FALSE,0,backlog:SEMANTIC_NULL,,0.2000,20,2026-03-30T06:09:28Z,Open,FALSE,vercel/next.js,9180682b443e14fc8562b663d80d538defc10e49,,0.00
+90740,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:29Z,Open,FALSE,vercel/next.js,a614520d770c9b9bb1321d9719ddc7fabc10ec06,,0.00
+91649,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:29Z,Open,FALSE,vercel/next.js,a149832da1d19a79be9ff779a325615919a7fc25,,0.00
+91256,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:29Z,Open,FALSE,vercel/next.js,cad49f429c3abedba2d44d091b6587f486c56753,,0.00
+90738,Andrew Clark,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:29Z,Open,FALSE,vercel/next.js,93d11309e34404cb97d3b5dd7d275239c3a4979f,,0.00
+91647,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:29Z,Open,FALSE,vercel/next.js,916a0e5e7425c201f6404a30f03bb710d6895041,,0.00
+91255,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:29Z,Open,FALSE,vercel/next.js,3b4131b2dd574348441010f06a439318808369ff,,0.00
+90736,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,8be3aac8db025bb940fae21809f2952443e4df24,,0.00
+91646,Hendrik Liebau,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,88a3e8f6cb0175d65fe1f27f5702621b7613c000,,0.00
+90735,pieh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,e18f2d2bb64994da0c9823dbe73bb9ec3baf7300,,0.00
+91250,Sebastian Sebbie Silbermann,300,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @next/env|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cross-spawn|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — semver|architecture:version_silo — tree-kill,,0.2000,20,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,96acd9c8e18c60032f1a0776bd0011fac1e76b79,,0.00
+91252,Sebastian Sebbie Silbermann,50,Necrotic,FALSE,0,architecture:zombie_dependency|antipattern:recursive_boilerplate — 6 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected,,0.2000,20,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,a054745e610fb8723173fd87b8d0f5e4a849fdf0,,0.00
+90734,Sebastian Sebbie Silbermann,640,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/jest|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — async-sema|architecture:version_silo — cheerio|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — cross-spawn|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — glob|architecture:version_silo — jest|architecture:version_silo — nanoid|architecture:version_silo — next|architecture:version_silo — prettier|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — typescript-eslint|architecture:version_silo — webpack|architecture:version_silo — webpack-bundle-analyzer,,0.2000,20,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,f59ed9ecfff0a008c8873c00b2e31f4510848655,,0.00
+90211,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,112bec07670068364301bf6a4fb6cd31a62a51ef,,0.00
+91246,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:30Z,Open,FALSE,vercel/next.js,3bcf5ac33504f83d81acb312105291d4eaf90ff6,,0.00
+91233,Steven,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,369ec21eddc392366f52b59717dfd79eea83ca55,,0.00
+90732,Aral Roca,0,Necrotic,FALSE,0,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,74e20a19b8101c732dcfe72e4451acfab7e00e1f,,0.00
+90210,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,10a40e2bf4df9b02914a868605cc5a60ca624463,,0.00
+91245,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,51704dcf23f7bf9aa1cfca067d20f8a062924e98,,0.00
+91231,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,3f870bcf64b131f5c6351129a0158283175f7d40,,0.00
+90209,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,409c2ae8e83aed2ac376130e177609074dfe6800,,0.00
+90731,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,1f8e05e604ed135c6d1fc732beb5eff6bfd0c723,,0.00
+91242,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:31Z,Open,FALSE,vercel/next.js,deb4dcb0c19004ffc635ad4ce85725e05dd5a3bb,,0.00
+91230,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,73fc64ef18061aeced2248cc0bd93740506f7912,,0.00
+90730,mohan@cure53.de,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,f0c8266a31ccafe3cc6b64a661edbb7cbdfd9e29,,0.00
+90207,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,229fff0bb4a2dc5f7b79bff1f9038b0f3028fe9c,,0.00
+91239,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,dc707ce1c6c6aad3a91ba40c95a34e0d1ba33e77,,0.00
+90726,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,5841c70db390f01d00f654dbf6984ae1803a04ca,,0.00
+91229,Luke Sandberg,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,69d6b966a40f5b55c65468956f4a9010a8a4740f,,0.00
+90205,Josh Story,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,6bd99fb57b15e15dd2c212e58463d93f6983fcd7,,0.00
+91237,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,7d0bfe05537c9d52679f7c91e813eea929883a6b,,0.00
+90725,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:32Z,Open,FALSE,vercel/next.js,fb53a2d27b80bf88090b202d28d9780c607997d3,,0.00
+90203,Joseph,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,35c851fd5b0beb7fd704f51cc800320ce9e884e2,,0.00
+91228,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,1efbc35bc24043ea2f4632b6f8c0bb89037d0092,,0.00
+91236,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,4be5730e62f39cada6cba3086bfd82a9b63e2338,,0.00
+90724,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,7b1e778fe72ded3315729b3777e78028c5595dc0,,0.00
+91227,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,f8f924ab4622823da31e752687262f29ec020db4,,0.00
+90200,Sebastian Sebbie Silbermann,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,c13b5df82645dfdbffe117efe5d71e1d4b865fb4,,0.00
+91235,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,95a44b55482c8cfa9019f412173c292d400e1d69,,0.00
+90722,Cursor Agent,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,ad14029f50aaf6de67aac1f37ed6d8da7f14ae89,,0.00
+91226,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,0db0050080bd47eab93d5d6949866edeb058e73e,,0.00
+90198,lllomh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,11c9c920fe5547ba05d2837527ca7cd6fff55b3c,,0.00
+91225,Benjamin Favre,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:33Z,Open,FALSE,vercel/next.js,236502bcced8318db18f02f45335ab1858b77882,,0.00
+90721,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:34Z,Open,FALSE,vercel/next.js,bea5fa7e86ee051a52bd11e940d5501b8f6c37ce,,0.00
+90197,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:34Z,Open,FALSE,vercel/next.js,9fd30598f37281ab9e093b9c39df5a20830e2f2a,,0.00
+90720,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:34Z,Open,FALSE,vercel/next.js,62f59d7140487da2e7763d1ca57866f8e7d01217,,0.00
+90719,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:34Z,Open,FALSE,vercel/next.js,8919297fdf5e01a53a19ab916f6ac3e8ee5a0091,,0.00
+90713,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:34Z,Open,FALSE,vercel/next.js,424770b1a54c88efe52b56e21e142bd8c1b0d83c,,0.00
+90711,lllomh,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:34Z,Open,FALSE,vercel/next.js,d0e5957ca54363ce15ff371b4a6a98b6cb7a51d7,,0.00
+90710,Luke Sandberg,20,StructuralSlop,FALSE,4,,,0.0000,20,2026-03-30T06:09:35Z,Open,FALSE,vercel/next.js,5aa9876585164f7dd74a1009375fe7b262d5cc0a,,0.00
+90195,nextjs-bot,20,Necrotic,FALSE,0,architecture:zombie_dependency|architecture:version_silo — scheduler,,0.2000,20,2026-03-30T06:09:35Z,Open,FALSE,vercel/next.js,f73773791b1637c11b4445467ea888184c920230,,0.00
+90709,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:35Z,Open,FALSE,vercel/next.js,cd85f037efdb1da0776d4476e8ce87753f85ffea,,0.00
+90194,Zack Tanner,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:35Z,Open,FALSE,vercel/next.js,d90195fff2a0b38358d66178feca73937f38767f,,0.00
+90708,bxff,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:35Z,Open,FALSE,vercel/next.js,5a687b9f632a48480610c08a9959524a44f537f1,,0.00
+90706,nextjs-bot,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:35Z,Open,FALSE,vercel/next.js,277650a7f32d9f23dec199e3167375692cd09a0a,,0.00
+90705,David,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:35Z,Open,FALSE,vercel/next.js,ff5d601098cea55a8c51fde44fda72209069e02e,,0.00
+90704,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:36Z,Open,FALSE,vercel/next.js,46f48f7eaef65fa203df51fa383cded409fdcc4b,,0.00
+90193,Matt Mastracci,40,Necrotic,FALSE,8,architecture:zombie_dependency,,0.2000,20,2026-03-30T06:09:36Z,Open,FALSE,vercel/next.js,ae93bed8c578c39eccc8fc81629812f38102bd01,,0.00
+90702,devjiwonchoi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:36Z,Open,FALSE,vercel/next.js,b7d1d12af8a98041ea0c481d6f8fac8ba0c0f37f,,0.00
+90192,Joseph Chamochumbi,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:36Z,Open,FALSE,vercel/next.js,6583959c702a990be828cd70044c7e0a386f919d,,0.00
+90181,JJ Kasper,0,Boilerplate,FALSE,0,,,0.0000,0,2026-03-30T06:09:36Z,Open,FALSE,vercel/next.js,01de317e4ad50ea112428de9ac0c1aac8860dd1c,,0.00

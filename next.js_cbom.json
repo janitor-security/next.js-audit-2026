@@ -1,0 +1,1607 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [],
+  "metadata": {
+    "component": {
+      "name": "next.js",
+      "type": "application"
+    },
+    "timestamp": "2026-03-30T06:09:38Z",
+    "tools": [
+      {
+        "name": "janitor",
+        "vendor": "The Janitor",
+        "version": "8.0.13"
+      }
+    ]
+  },
+  "serialNumber": "urn:uuid:557b8538-dbcf-4b6e-9430-510dd9fa3a98",
+  "specVersion": "1.5",
+  "version": 1,
+  "vulnerabilities": [
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/92084"
+        }
+      ],
+      "description": "architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — picocolors|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — webpack",
+      "id": "JANITOR-92084",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91636"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91636",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90675"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90675",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91212"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91212",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/92063"
+        }
+      ],
+      "description": "architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — next|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — typescript",
+      "id": "JANITOR-92063",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91208"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91208",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90671"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90671",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91615"
+        }
+      ],
+      "description": "architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/debug|architecture:version_silo — @types/glob|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — @types/tar|architecture:version_silo — @typescript-eslint/eslint-plugin|architecture:version_silo — @typescript-eslint/parser|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — async-sema|architecture:version_silo — browserslist|architecture:version_silo — cheerio|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — core-js|architecture:version_silo — cross-spawn|architecture:version_silo — debug|architecture:version_silo — eslint|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — express|architecture:version_silo — fast-glob|architecture:version_silo — firebase|architecture:version_silo — glob|architecture:version_silo — isomorphic-unfetch|architecture:version_silo — jest|architecture:version_silo — nanoid|architecture:version_silo — neo-async|architecture:version_silo — next|architecture:version_silo — prettier|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — typescript|architecture:version_silo — webpack|architecture:version_silo — webpack-bundle-analyzer",
+      "id": "JANITOR-91615",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90655"
+        }
+      ],
+      "description": "architecture:version_silo — @types/tar|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — neo-async|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — swc_ecma_minifier (v41.0.1 vs v42.0.0)|architecture:version_silo — swc_ecma_parser (v31.0.0 vs v32.0.0)|architecture:version_silo — swc_ecma_transforms (v43.0.0 vs v44.0.0)|architecture:version_silo — swc_ecma_transforms_base (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_optimization (v36.0.0 vs v37.0.0)|architecture:version_silo — tar|architecture:version_silo — webpack",
+      "id": "JANITOR-90655",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/92026"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-92026",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/92022"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-92022",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91591"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-91591",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91137"
+        }
+      ],
+      "description": "antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected|antipattern:recursive_boilerplate — 12 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected|antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected|antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected|antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected|antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected|antipattern:recursive_boilerplate — 6 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected",
+      "id": "JANITOR-91137",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/92015"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-92015",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91134"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91134",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/92013"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-92013",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90605"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90605",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90584"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90584",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91100"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91100",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91985"
+        }
+      ],
+      "description": "antipattern:recursive_boilerplate — 8 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected",
+      "id": "JANITOR-91985",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91539"
+        }
+      ],
+      "description": "security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=2)",
+      "id": "JANITOR-91539",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91534"
+        }
+      ],
+      "description": "architecture:version_silo — convert_case (v0.10.0 vs v0.6.0)|architecture:version_silo — jni (v0.21.1 vs v0.22.4)|architecture:version_silo — jni-sys (v0.3.1 vs v0.4.1)|architecture:version_silo — nix (v0.30.1 vs v0.31.2)|architecture:version_silo — r-efi (v5.3.0 vs v6.0.0)|architecture:version_silo — redox_syscall (v0.5.18 vs v0.7.3)|architecture:version_silo — reqwest (v0.11.27 vs v0.13.2)|architecture:version_silo — siphasher (v0.3.11 vs v1.0.2)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — sync_wrapper (v0.1.2 vs v1.0.2)|architecture:version_silo — twox-hash (v1.6.3 vs v2.1.2)|architecture:version_silo — winreg (v0.50.0 vs v0.51.0)",
+      "id": "JANITOR-91534",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91533"
+        }
+      ],
+      "description": "architecture:version_silo — convert_case (v0.10.0 vs v0.6.0)|architecture:version_silo — cranelift-bforest (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-bitset (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-codegen (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-codegen-meta (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-codegen-shared (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-control (v0.110.3 vs v0.125.4)|architecture:version_silo — cranelift-entity (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-frontend (v0.110.2 vs v0.125.4)|architecture:version_silo — cranelift-isle (v0.110.2 vs v0.125.4)|architecture:version_silo — jni (v0.21.1 vs v0.22.4)|architecture:version_silo — jni-sys (v0.3.1 vs v0.4.1)|architecture:version_silo — nix (v0.30.1 vs v0.31.2)|architecture:version_silo — r-efi (v5.3.0 vs v6.0.0)|architecture:version_silo — redox_syscall (v0.5.18 vs v0.7.3)|architecture:version_silo — regalloc2 (v0.13.5 vs v0.9.3)|architecture:version_silo — reqwest (v0.11.27 vs v0.13.2)|architecture:version_silo — siphasher (v0.3.11 vs v1.0.2)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — sync_wrapper (v0.1.2 vs v1.0.2)|architecture:version_silo — target-lexicon (v0.12.16 vs v0.13.5)|architecture:version_silo — twox-hash (v1.6.3 vs v2.1.2)|architecture:version_silo — wast (v245.0.1 vs v35.0.2)|architecture:version_silo — winreg (v0.50.0 vs v0.51.0)",
+      "id": "JANITOR-91533",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91532"
+        }
+      ],
+      "description": "architecture:version_silo — convert_case (v0.10.0 vs v0.6.0)|architecture:version_silo — jni (v0.21.1 vs v0.22.4)|architecture:version_silo — jni-sys (v0.3.1 vs v0.4.1)|architecture:version_silo — nix (v0.30.1 vs v0.31.2)|architecture:version_silo — r-efi (v5.3.0 vs v6.0.0)|architecture:version_silo — redox_syscall (v0.5.18 vs v0.7.3)|architecture:version_silo — reqwest (v0.11.27 vs v0.13.2)|architecture:version_silo — siphasher (v0.3.11 vs v1.0.2)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — sync_wrapper (v0.1.2 vs v1.0.2)|architecture:version_silo — twox-hash (v1.6.3 vs v2.1.2)|architecture:version_silo — winreg (v0.50.0 vs v0.51.0)",
+      "id": "JANITOR-91532",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91522"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-91522",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90529"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90529",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90516"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90516",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91002"
+        }
+      ],
+      "description": "architecture:version_silo — prettier",
+      "id": "JANITOR-91002",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90989"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90989",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91905"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-91905",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90976"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90976",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91477"
+        }
+      ],
+      "description": "security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=20)",
+      "id": "JANITOR-91477",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91476"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91476",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91474"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91474",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91885"
+        }
+      ],
+      "description": "architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — picocolors|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — webpack",
+      "id": "JANITOR-91885",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90471"
+        }
+      ],
+      "description": "architecture:version_silo — @types/tar|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — neo-async|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — swc_ecma_minifier (v41.0.1 vs v42.0.0)|architecture:version_silo — swc_ecma_parser (v31.0.0 vs v32.0.0)|architecture:version_silo — swc_ecma_transforms (v43.0.0 vs v44.0.0)|architecture:version_silo — swc_ecma_transforms_base (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_optimization (v36.0.0 vs v37.0.0)|architecture:version_silo — tar|architecture:version_silo — webpack",
+      "id": "JANITOR-90471",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91469"
+        }
+      ],
+      "description": "architecture:version_silo — @types/tar|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — neo-async|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — swc_ecma_minifier (v41.0.1 vs v42.0.0)|architecture:version_silo — swc_ecma_parser (v31.0.0 vs v32.0.0)|architecture:version_silo — swc_ecma_transforms (v43.0.0 vs v44.0.0)|architecture:version_silo — swc_ecma_transforms_base (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_optimization (v36.0.0 vs v37.0.0)|architecture:version_silo — tar|architecture:version_silo — webpack",
+      "id": "JANITOR-91469",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91468"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91468",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91873"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91873",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90452"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90452",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91416"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91416",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91839"
+        }
+      ],
+      "description": "antipattern:recursive_boilerplate — 10 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected",
+      "id": "JANITOR-91839",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91415"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91415",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91832"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91832",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90883"
+        }
+      ],
+      "description": "security:ssrf_dynamic_url — `fetch()` called with a dynamically constructed URL (string concatenation or template literal); if any component is user-controlled this is an SSRF vector — validate and allowlist URL hosts — CISA KEV class (line=22)|security:ssrf_dynamic_url — `fetch()` called with a dynamically constructed URL (string concatenation or template literal); if any component is user-controlled this is an SSRF vector — validate and allowlist URL hosts — CISA KEV class (line=25)|architecture:version_silo — @testing-library/react|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — next|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — typescript",
+      "id": "JANITOR-90883",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91790"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91790",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90876"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90876",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90868"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90868",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91377"
+        }
+      ],
+      "description": "architecture:version_silo — cranelift-bforest (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-bitset (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-codegen (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-codegen-meta (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-codegen-shared (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-control (v0.110.3 vs v0.116.1)|architecture:version_silo — cranelift-entity (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-frontend (v0.110.2 vs v0.116.1)|architecture:version_silo — cranelift-isle (v0.110.2 vs v0.116.1)|architecture:version_silo — regalloc2 (v0.11.2 vs v0.9.3)|architecture:version_silo — swc_common (v18.0.1 vs v19.0.0)|architecture:version_silo — swc_core (v57.0.0 vs v58.0.4)|architecture:version_silo — swc_ecma_ast (v20.0.1 vs v21.0.0)|architecture:version_silo — swc_ecma_codegen (v23.0.0 vs v24.0.0)|architecture:version_silo — swc_ecma_parser (v34.0.0 vs v35.0.0)|architecture:version_silo — swc_ecma_transforms_base (v37.0.0 vs v38.0.0)|architecture:version_silo — swc_ecma_utils (v26.0.1 vs v27.0.0)|architecture:version_silo — swc_ecma_visit (v20.0.0 vs v21.0.0)|architecture:version_silo — swc_error_reporters (v20.0.0 vs v21.0.0)|architecture:version_silo — swc_sourcemap (v10.0.2 vs v9.3.4)|architecture:version_silo — target-lexicon (v0.12.16 vs v0.13.5)|architecture:version_silo — testing (v19.0.0 vs v20.0.0)|architecture:version_silo — wast (v235.0.0 vs v35.0.2)|architecture:version_silo — wit-parser (v0.221.3 vs v0.244.0)",
+      "id": "JANITOR-91377",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90827"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90827",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91731"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-91731",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91729"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91729",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91324"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-91324",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90279"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90279",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91314"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91314",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90263"
+        }
+      ],
+      "description": "architecture:version_silo — @next/env|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cross-spawn|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — semver",
+      "id": "JANITOR-90263",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90778"
+        }
+      ],
+      "description": "security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=561)|security:unpinned_asset — .github.io/ URL embedded in production source; GitHub Pages is not a CDN and has no integrity guarantee — use a versioned package dependency instead (line=561)|antipattern:ncd_anomaly|antipattern:ncd_anomaly|antipattern:ncd_anomaly",
+      "id": "JANITOR-90778",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "critical",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90774"
+        }
+      ],
+      "description": "architecture:version_silo — cpufeatures (v0.2.9 vs v0.3.0)|architecture:version_silo — wasm-encoder (v0.235.0 vs v0.244.0)",
+      "id": "JANITOR-90774",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90773"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90773",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90235"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90235",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90763"
+        }
+      ],
+      "description": "architecture:version_silo — @next/env|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cross-spawn|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — semver",
+      "id": "JANITOR-90763",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91272"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-91272",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91660"
+        }
+      ],
+      "description": "architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/debug|architecture:version_silo — @types/glob|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — @types/tar|architecture:version_silo — @typescript-eslint/eslint-plugin|architecture:version_silo — @typescript-eslint/parser|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — async-sema|architecture:version_silo — browserslist|architecture:version_silo — cheerio|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — core-js|architecture:version_silo — cross-spawn|architecture:version_silo — debug|architecture:version_silo — eslint|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — express|architecture:version_silo — fast-glob|architecture:version_silo — firebase|architecture:version_silo — glob|architecture:version_silo — isomorphic-unfetch|architecture:version_silo — jest|architecture:version_silo — nanoid|architecture:version_silo — neo-async|architecture:version_silo — next|architecture:version_silo — prettier|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — tar|architecture:version_silo — typescript|architecture:version_silo — webpack|architecture:version_silo — webpack-bundle-analyzer",
+      "id": "JANITOR-91660",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91257"
+        }
+      ],
+      "description": "architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @tailwindcss/postcss|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cheerio|architecture:version_silo — cross-env|architecture:version_silo — cross-spawn|architecture:version_silo — eslint-config-next|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — next|architecture:version_silo — postcss|architecture:version_silo — prettier|architecture:version_silo — react|architecture:version_silo — react-dom|architecture:version_silo — semver|architecture:version_silo — tailwindcss|architecture:version_silo — typescript-eslint",
+      "id": "JANITOR-91257",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91650"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-91650",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "medium",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91250"
+        }
+      ],
+      "description": "architecture:version_silo — @next/env|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — async-sema|architecture:version_silo — cross-spawn|architecture:version_silo — glob|architecture:version_silo — nanoid|architecture:version_silo — semver|architecture:version_silo — tree-kill",
+      "id": "JANITOR-91250",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/91252"
+        }
+      ],
+      "description": "antipattern:recursive_boilerplate — 6 functions share identical AST topology (SimHash distance=0); structural boilerplate flood detected",
+      "id": "JANITOR-91252",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90734"
+        }
+      ],
+      "description": "architecture:version_silo — @next/env|architecture:version_silo — @next/eslint-plugin-next|architecture:version_silo — @next/font|architecture:version_silo — @next/polyfill-module|architecture:version_silo — @next/polyfill-nomodule|architecture:version_silo — @next/swc|architecture:version_silo — @opentelemetry/api|architecture:version_silo — @types/jest|architecture:version_silo — @types/node|architecture:version_silo — @types/react|architecture:version_silo — @types/react-dom|architecture:version_silo — @vercel/ncc|architecture:version_silo — async-retry|architecture:version_silo — async-sema|architecture:version_silo — cheerio|architecture:version_silo — ci-info|architecture:version_silo — conf|architecture:version_silo — cross-spawn|architecture:version_silo — eslint-plugin-import|architecture:version_silo — eslint-plugin-react|architecture:version_silo — eslint-plugin-react-hooks|architecture:version_silo — execa|architecture:version_silo — glob|architecture:version_silo — jest|architecture:version_silo — nanoid|architecture:version_silo — next|architecture:version_silo — prettier|architecture:version_silo — semver|architecture:version_silo — source-map|architecture:version_silo — typescript-eslint|architecture:version_silo — webpack|architecture:version_silo — webpack-bundle-analyzer",
+      "id": "JANITOR-90734",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90211"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90211",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90710"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90710",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90195"
+        }
+      ],
+      "description": "architecture:version_silo — scheduler",
+      "id": "JANITOR-90195",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    },
+    {
+      "affects": [
+        {
+          "ref": "urn:cdx:next.js:pr/90193"
+        }
+      ],
+      "description": "",
+      "id": "JANITOR-90193",
+      "ratings": [
+        {
+          "method": "other",
+          "severity": "none",
+          "source": {
+            "name": "The Janitor"
+          }
+        }
+      ],
+      "source": {
+        "name": "The Janitor",
+        "url": "https://thejanitor.app"
+      }
+    }
+  ]
+}

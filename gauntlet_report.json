@@ -1,0 +1,43 @@
+{
+  "gauntlet_root": "/home/ghrammr/dev/gauntlet-strike-next.js",
+  "provenance": {
+    "exfiltration_ratio_pct": 0.0,
+    "total_egress_bytes_sent": 0,
+    "total_source_bytes_processed": 739976309,
+    "zero_upload_verified": true
+  },
+  "repositories": [
+    {
+      "antipatterns_found": 398,
+      "ci_compute_saved_usd": 600,
+      "critical_threats_count": 4,
+      "dead_symbols_added": 863,
+      "highest_pr": 91615,
+      "highest_score": 990,
+      "pr_count": 968,
+      "reclaimed_hours": 2.2,
+      "reclaimed_minutes": 132.0,
+      "repo_name": "next.js",
+      "structural_slop_count": 57,
+      "total_actionable_intercepts": 72,
+      "total_economic_impact_usd": 1960,
+      "total_slop_score": 9490,
+      "zombie_dep_prs": 105
+    }
+  ],
+  "schema_version": "8.0.13",
+  "total_antipatterns": 398,
+  "total_prs": 968,
+  "total_repos": 1,
+  "total_slop_score": 9490,
+  "workslop": {
+    "actionable_intercepts": 72,
+    "ci_compute_saved_usd": 600,
+    "critical_threats_count": 4,
+    "necrotic_count": 11,
+    "structural_slop_count": 57,
+    "total_economic_impact_usd": 1960,
+    "total_reclaimed_hours": 2.2,
+    "total_reclaimed_minutes": 132.0
+  }
+}
